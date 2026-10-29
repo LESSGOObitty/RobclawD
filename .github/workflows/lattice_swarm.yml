@@ -1,0 +1,24 @@
+name: Lattice Swarm CI Engine
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  compile-and-audit:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 1. Clone Sovereign Source Tree
+      uses: actions/checkout@v4
+
+    - name: 2. Initialize Node Environment Lattice
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: 3. Inject Core Hardhat & OpenZeppelin Dependencies
+      run: |
+        npm install --save-dev hardhat @openzeppelin/contracts
+        npx hardhat --version
