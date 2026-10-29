@@ -1,4 +1,4 @@
-# Sovereign RootHash Seal
-- Root Hash: f2454a72fb26d166aa961b2ef72d4bff7f926f4d394b35551f85e0bf8e9386b4
+# Sovereign Clean RootHash Seal
+- Root Hash: 98ab7106041642231fb4e0cedc745c0785b73d9020bbf146dea79f5ad70e7420
 - Invariant: 576333510
-- Status: SECURED & VERIFIED
+- Status: IMMUTABLE & VERIFIED
