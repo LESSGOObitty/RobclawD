@@ -1,0 +1,25 @@
+# System and Shell Histories
+.bash_history
+.zsh_history
+.cache/
+.cargo/
+.config/
+.local/
+.ssh/
+.termux/
+.tmux.conf
+.zshrcx
+.gitconfig
+.profile
+.bash_profile
+.bashrc
+.zshrc
+
+# Logs and Local Runtime State
+*.log
+*.bin
+pkg_entropy.bin
+target_database.db
+downloads/
+workspace/
+storage/

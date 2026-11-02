@@ -1,0 +1,13 @@
+{
+  "entity": "robdoe.Inc Pty Tld",
+  "master_status": "LOCKED, SEALED & BACKED UP",
+  "master_hash": "0xc51eb229d46b04755e92c79f65ba1d83",
+  "final_timestamp": "2026-10-26T02:38:48Z",
+  "snapshot_archive": "sovereign_snapshot_1792982328.tar.gz",
+  "sectors": {
+    "epoch": 1,
+    "units": "1,879.79",
+    "hydro_pools": 72,
+    "mass_ratio": "4% operator / 96% chon"
+  }
+}

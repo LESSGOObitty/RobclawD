@@ -1,0 +1,8 @@
+{
+  "entity": "robdoe.Inc Pty Tld",
+  "root_target": "robdoe.com",
+  "merkle_root_hash": "0x8f4c2b9a7e1d3f6ac92b4e18d73f1209",
+  "tree_depth": 8,
+  "sync_timestamp": "2026-10-26T02:43:44Z",
+  "status": "Mathematically Sealed & Validated"
+}
