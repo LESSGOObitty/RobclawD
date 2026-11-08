@@ -62,3 +62,26 @@
 09:27:11.196714 db@open done T·14.100308ms
 09:27:11.249713 db@close closing
 09:27:11.250159 db@close done T·426.461µs
+=============== Nov 2, 2026 (UTC) ===============
+09:29:19.193274 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:29:19.194015 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+09:29:19.194146 db@open opening
+09:29:19.194429 journal@recovery F·1
+09:29:19.195466 journal@recovery recovering @11
+09:29:19.198721 memdb@flush created L0@13 N·8 S·567B "/pi..ODI,v10":"/pi..rty,v8"
+09:29:19.199916 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+09:29:19.221948 db@janitor F·4 G·0
+09:29:19.222150 db@open done T·27.94123ms
+09:29:19.246586 db@close closing
+09:29:19.247374 db@close done T·771.693µs
+=============== Nov 2, 2026 (UTC) ===============
+09:29:19.393580 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:29:19.394296 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+09:29:19.394447 db@open opening
+09:29:19.394718 journal@recovery F·1
+09:29:19.395679 journal@recovery recovering @14
+09:29:19.399867 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+09:29:19.409085 db@janitor F·4 G·0
+09:29:19.409285 db@open done T·14.782769ms
+09:29:19.467369 db@close closing
+09:29:19.468022 db@close done T·625.847µs

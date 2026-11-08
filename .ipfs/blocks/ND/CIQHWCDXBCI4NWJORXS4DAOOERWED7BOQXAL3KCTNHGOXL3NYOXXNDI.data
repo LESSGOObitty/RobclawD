@@ -1,0 +1,118 @@
+
+í?å?{
+  "timestamp": "2026-11-02T09:29:18.381369Z",
+  "nodes": {
+    "Matrix-Ledger/.git/COMMIT_EDITMSG": {
+      "sha256": "ecb2b73bbfd7f9007ad6921fb62896c3185792981bc00017bbc7c47f849fcbee",
+      "sha512": "36b6a848fc4027d17053fa14c32f5339fb5cb64cca091a564935f78f1736a335aa53786c9ce5d7e84bdb68cd963067020ed78a772fe53d1f9ba05f053a329f63"
+    },
+    "Matrix-Ledger/.git/HEAD": {
+      "sha256": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10",
+      "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8a44e1cb21f1feff4951cf57c893043a0be696dcb0e4f5758a4d6081a833eb6cf"
+    },
+    "Matrix-Ledger/.git/config": {
+      "sha256": "c5419ba1836894f40fb10ce7c802a329da5645a44774f8d0819a5966b4a336d0",
+      "sha512": "857777fdac45afa4030d4a3b293ba04717b2cb5c743582e41e114b79912a150be0bbba8b4afb793f2166431365701d0548511e5056e785f155696225140d931b"
+    },
+    "Matrix-Ledger/.git/description": {
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d003367eb178331e75ab976a61496e79c2c822020849d28ffd170946397b934611b471"
+    },
+    "Matrix-Ledger/.git/hooks/applypatch-msg.sample": {
+      "sha256": "94f95b4ce4df0e89b8e267ec1634d9187c71802b78029833fdce4045aa6f08a5",
+      "sha512": "de4bb3c135c2d2bdd52eabbc001ef07c17520cc3a9dc94e1b6e6e0ef81f2aac015b450b625bc04f990e14867a35bc03487c89c7842cc882cc792d8d981876cf4"
+    },
+    "Matrix-Ledger/.git/hooks/commit-msg.sample": {
+      "sha256": "b15d4a0a2e3362aafd28ff178cb5b7ec7a6e64ac29c50209b99458819b6d0cba",
+      "sha512": "db25fd9abd41bdaeaa00f7f37c90f8d6eb87f7fd100926c939ea2ca3cc814559b3276e3c1642c3d144cf54fa423cd5bf7c5eb485580401f84052b87067d3f97a"
+    },
+    "Matrix-Ledger/.git/hooks/fsmonitor-watchman.sample": {
+      "sha256": "a290aca891c7e3729750c56f8d049e554894bc96d240072230e61c756ea3f7e4",
+      "sha512": "89701f4ca859a2e2b62149a09b8cec6a164c20fc6e696c22243981f087616ed49d3da530de66e6275c2e2668ef0e89856ff362cf79f40cc2a928c17e0b98ca98"
+    },
+    "Matrix-Ledger/.git/hooks/post-update.sample": {
+      "sha256": "f8a8e865862e210edfc56488db28ac0386f6f8f9ad08260d15ce26ffa9de89a5",
+      "sha512": "9fc2dc8b646df0f41fbe4cba8984327d9ece129207910c6785ceb2db91e1e45ef733a67b6ac0c888479b4ec55ad49d7532cbad463582eb424ef50cadb4832cf2"
+    },
+    "Matrix-Ledger/.git/hooks/pre-applypatch.sample": {
+      "sha256": "e57b877b3902f9d1aede7779c0f84a410fd93cf0e04bddb351503829ddf08840",
+      "sha512": "a737e4baa19274017ebfc8d590bc80a890a2346375c06d2e83a2484c3116265e32540543d9be808043797cad24a19739414615aeb1320ee08101ad1d7dcce780"
+    },
+    "Matrix-Ledger/.git/hooks/pre-commit.sample": {
+      "sha256": "964431168c0016a3c95a162b33521d34d980926b0e482184dfc599af49b5bfd6",
+      "sha512": "3dead7889c61d7246ec1ab93cdc1fa3a442a975282f319d1b60b87fdf3c97083740b1963955c283f11ce1515560a4ef10e352b6f185bc6ad144f1d0e5abcc860"
+    },
+    "Matrix-Ledger/.git/hooks/pre-merge-commit.sample": {
+      "sha256": "5efbacab709d11ca887672440664e782d4e11f021879f415b68dfeadeae4624e",
+      "sha512": "2496955fdaa8eae658cdd2d62872d8decbeab2bcc7db7c7507ff3128ec92fcc08e1989627bee6335c5a4451015d1452813e6b8f96d783faf73619600f62de3b0"
+    },
+    "Matrix-Ledger/.git/hooks/pre-push.sample": {
+      "sha256": "74b00ff982a9de10b548a36682161f01eb40ad8263bbb4cebf5bfcf03ec756ea",
+      "sha512": "2b73a6a7de82577014308c5058bafd8f3f6d4c7e3d9dc9088c987a804d157858738f5374e4cce28e1c9f5581b27306f41bc568ef31c52ad87c87772adfef46fc"
+    },
+    "Matrix-Ledger/.git/hooks/pre-rebase.sample": {
+      "sha256": "3ff0475974e08ce6d85658b20684f59fd36b02c44f8565fca85785f9aabc0e4f",
+      "sha512": "5baadf572192cfe7a01e3c237052304b6d0f6d37648cd0235301cbf13d3272f36a61ed3a256d090e4b2473e924ba219a36a039d248a83e7db47c773773f495a7"
+    },
+    "Matrix-Ledger/.git/hooks/pre-receive.sample": {
+      "sha256": "bf8f6d6f740288cd6553dc2a236e97ee914cacf63c874982756c4cdb23f93bc4",
+      "sha512": "5742339a459cc9c4fa95b389c22b34238a717aa8f349809fc8d2eac4d28621599f79293f9a316853b996b9641733a2a9c73507f3038dd302b8e5fba4c6f79d47"
+    },
+    "Matrix-Ledger/.git/hooks/prepare-commit-msg.sample": {
+      "sha256": "6920f3f24cd33d57f24c1a5489f2af247c49dc978e96a885e018f867992ae7f8",
+      "sha512": "ae3824b2500a1f836c7bf8e8d80e33ba26619a71db569e9ea8be1cd39bd4931b228cad2545991feb82f818b22b2a034b3675734dd47455ffbe58412855de1fc1"
+    },
+    "Matrix-Ledger/.git/hooks/push-to-checkout.sample": {
+      "sha256": "8ff7cb671a9324bd72006d7b1517cc01b798610a59cdaa93ccdc436238f6e881",
+      "sha512": "e70b4c2d41f475933a9d207b5aa523357438a03f4a52cad429eea204dd568585992c539d45ca20f86a9916f2a602cce9f89185d511574d7e4e56263fdaa85c7c"
+    },
+    "Matrix-Ledger/.git/hooks/sendemail-validate.sample": {
+      "sha256": "fd1f34006ffad4ab58df6386e8245cdcadb8f5cc3056256a61033246e89320c3",
+      "sha512": "91902095aa31ff95a7f0568c6b860b7a1c8051096421b421b73f43a8a8f28c9d5c012ab63759b2c30e58b0a12daf693cd3fadb112dd59013a44707bcb0d751bd"
+    },
+    "Matrix-Ledger/.git/hooks/update.sample": {
+      "sha256": "af1135f0b538e9f877b21b852f61b17f2cf3661df42b8831bd3b598fdc5f2127",
+      "sha512": "aa13239986454f005c083021e19fba9ca52b5f2274bd8d0e5cb71e38b69e6fe35ec1c7a005ff94da200c61c5ee45dd546d7703e13726249f8c683d5325f94217"
+    },
+    "Matrix-Ledger/.git/index": {
+      "sha256": "3dd54339f76cc8f26207ec1d4a18095f3fcfa6196528e695342a79f85a6c42bc",
+      "sha512": "d985749887d97eefb1901005308521a9d6c3889270e699132050c8eb714a9078b1b594c85f83b12334866c3bcf02cf0dc16a8dd39772d36789bdc8dfc791cf16"
+    },
+    "Matrix-Ledger/.git/info/exclude": {
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b9d0a25c6baa1046c0e1c62d3da88838e8fca74ea82973d6b975905fde58f3072"
+    },
+    "Matrix-Ledger/.git/logs/HEAD": {
+      "sha256": "b74d10577d57ad9262aaa7a885b42c0277d35500269faef2b3c377371993d439",
+      "sha512": "9401bf85e034fb3076982df6700f7cee8ea30f47138e0fc8a0ef2f10286efe0626ba54b83e714337e1b38c84cec9a781493c2fb73feff4c84477293f7ec7ddb4"
+    },
+    "Matrix-Ledger/.git/logs/refs/heads/master": {
+      "sha256": "b74d10577d57ad9262aaa7a885b42c0277d35500269faef2b3c377371993d439",
+      "sha512": "9401bf85e034fb3076982df6700f7cee8ea30f47138e0fc8a0ef2f10286efe0626ba54b83e714337e1b38c84cec9a781493c2fb73feff4c84477293f7ec7ddb4"
+    },
+    "Matrix-Ledger/.git/objects/27/95cc7780b6e3c6771120353b0c3173f863f0c9": {
+      "sha256": "b0a44271b85b6463875cd7055e93bcbf15cc52836daed4e08feee5017af6e5b6",
+      "sha512": "a1c16f0025467e64014e2baba13c1af8a7fe2e11eacebda7a1776dc1be1aae2968ef031c97927edf8f3edea2bb80ae2bb1628dbfe2f284e2892aadfdb80e9f0b"
+    },
+    "Matrix-Ledger/.git/objects/a5/42717977fad9fc4e6effc4bad0828194f9ecb2": {
+      "sha256": "cbf459e72d1c937c7ea47964cdc609c6bc903b89181db534279a940c65407531",
+      "sha512": "2b31f7532262a90bc4fdde21f77bc960245f0c6f7b149433d2ee6579da87b545bd36456f3125634f9111e879a9b0d2b7c3ad47273669e2fb65de0957967f2622"
+    },
+    "Matrix-Ledger/.git/objects/d5/6fa3e9a4e030a984e8121d37e3809bdf8dab0f": {
+      "sha256": "e902d305be5543c7c06c47b25916a795c47e19afbb21b5320f758886961c4039",
+      "sha512": "5b0392d1aadd689f350bcce786d9859600f8851141e582846f8d5490e74c6b81501e7138cd67b340a1247694cb46b02a4dce7d5454883c010197f615f6f68a3d"
+    },
+    "Matrix-Ledger/.git/refs/heads/master": {
+      "sha256": "12d59988b184be33410327a805fa0ff04b3bfe6edabfb05b7a2f828a86784bd8",
+      "sha512": "ec5d2d8f7e14d151260e4450f1acb530922e8ce92a6e7b77eb525b7fde2277f601395357b8264c52380d49c5ce2812ce08fbffd6e0a5175b1ed2823e765e3b79"
+    },
+    "Matrix-Ledger/MATRIX_JURY_LOGS.json": {
+      "sha256": "3c8ca12b06c55942f1e820da9ca839b29ad2d9d6d97e847981fdc3c0d21cef6c",
+      "sha512": "4060b8ff23522575ede05b76c3752f0bb9470096b6811f2bf8cf3ad9a7ad6a31b1a6b3ff9096cb078a6d7e8aac6da1f4071029c17439979921c23ec1f518c8c7"
+    },
+    "target_database.db": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e"
+    }
+  }
+}å?

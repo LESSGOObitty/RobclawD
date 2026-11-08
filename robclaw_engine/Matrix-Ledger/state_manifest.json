@@ -1,0 +1,12 @@
+{
+  "engine": "pure-termux-merkle-btree",
+  "state_root": "0x91aec456ad7d7677340b10b44144502dbdf93beed8682e38800fdcef945b8435",
+  "keys": [
+    5,
+    10,
+    15,
+    20,
+    30
+  ],
+  "status": "sealed-offline"
+}
