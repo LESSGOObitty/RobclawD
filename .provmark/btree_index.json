@@ -1,0 +1,97 @@
+{
+  "engine": "robdoe_btree_v1",
+  "indexed_records": 13,
+  "tree": {
+    "leaf": false,
+    "keys": [
+      1794135319
+    ],
+    "values": [],
+    "children": [
+      {
+        "leaf": false,
+        "keys": [
+          0
+        ],
+        "values": [],
+        "children": [
+          {
+            "leaf": true,
+            "keys": [
+              0
+            ],
+            "values": [
+              "community_node.json"
+            ],
+            "children": []
+          },
+          {
+            "leaf": true,
+            "keys": [
+              1794131808,
+              1794131885
+            ],
+            "values": [
+              "state_1794131808.json",
+              "master_state_1794131885.json"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "leaf": false,
+        "keys": [
+          1794135441,
+          1794135501,
+          1794135640
+        ],
+        "values": [],
+        "children": [
+          {
+            "leaf": true,
+            "keys": [
+              1794135380
+            ],
+            "values": [
+              "master_state_1794135380.json"
+            ],
+            "children": []
+          },
+          {
+            "leaf": true,
+            "keys": [
+              1794135450
+            ],
+            "values": [
+              "master_state_1794135450.json"
+            ],
+            "children": []
+          },
+          {
+            "leaf": true,
+            "keys": [
+              1794135562
+            ],
+            "values": [
+              "master_state_1794135562.json"
+            ],
+            "children": []
+          },
+          {
+            "leaf": true,
+            "keys": [
+              1794135853,
+              1794136002
+            ],
+            "values": [
+              "master_state_1794135853.json",
+              "master_state_1794136002.json"
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
