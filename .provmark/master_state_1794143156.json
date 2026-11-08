@@ -1,0 +1,13 @@
+{
+  "domain_authority": "robdoe.com",
+  "timestamp": 1794143156,
+  "invariant": "inv_2ec6fc19e0fb1d9d",
+  "sha256_root": "ef78467bd38a8954854f0debe5bc52a7f3a839a7f308497fc8cbee322f96762f",
+  "local_dag_depth": 134,
+  "channels": {
+    "termux_arm64": "ACTIVE_MASTER",
+    "serial_esp32": "READY_115200_BAUD",
+    "lan_udp_mesh": "BROADCAST_PORT_9099",
+    "provmark_vault": "SEALED"
+  }
+}
