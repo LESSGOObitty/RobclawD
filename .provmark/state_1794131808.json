@@ -1,0 +1,10 @@
+{
+  "timestamp": 1794131808,
+  "node_authority": "robdoe.com",
+  "runtime": "ARM64_TERMUX_BAREMETAL",
+  "baud_rate": 115200,
+  "serial_telemetry_status": "LISTENING_SERIAL_COM",
+  "invariant": "inv_adc97a5835de2478",
+  "sha256_root": "c0a08cb13cf0326d555703f4b0f8db7e49ed68a2a05c570a5485e5c3cd01686d",
+  "mode": "QUIET_SOVEREIGN_BRIDGE"
+}

@@ -1,0 +1,7 @@
+{
+  "node_identity": "community.sovereign.node",
+  "license": "OPEN_SOURCE_COMMUNITY_EDITION",
+  "status": "UNLIMITED_OFFGRID_ACCESS",
+  "bft_consensus": "ACTIVE",
+  "provmark_engine": "ENABLED"
+}
