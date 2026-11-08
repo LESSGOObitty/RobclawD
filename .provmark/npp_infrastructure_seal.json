@@ -1,6 +1,6 @@
 {
   "authority": "robdoe.com",
-  "timestamp": 1794136168,
+  "timestamp": 1794136385,
   "invariant_base_key": 932808725,
   "formula_verification": "z==z2+C",
   "hyper_seal_hash": "0x7270e691ee7623d49aa60eabf4c6ab8d7331801bf",
@@ -30,6 +30,6 @@
       "Context": "MoveVM Staked / BTC Restaking"
     }
   },
-  "sha256_verification_root": "010069e7322ac34108c8f19da372e3c9e948aa458904443c487c331944aea00b",
+  "sha256_verification_root": "bf0912aeadb19280aca3f60c1484ccb4d8cb6e72bd2a8f702660e0e613d68a1e",
   "status": "NPP_INFRASTRUCTURE_LOCKED"
 }
