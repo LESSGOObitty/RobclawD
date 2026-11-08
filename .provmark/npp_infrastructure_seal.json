@@ -1,0 +1,35 @@
+{
+  "authority": "robdoe.com",
+  "timestamp": 1794136168,
+  "invariant_base_key": 932808725,
+  "formula_verification": "z==z2+C",
+  "hyper_seal_hash": "0x7270e691ee7623d49aa60eabf4c6ab8d7331801bf",
+  "asset_pools": {
+    "BTC Pool": {
+      "Volume": "79.08 BTC",
+      "Context": "Anchor / Secured Ledger"
+    },
+    "HYPE Pool": {
+      "Volume": "10600.0 HYPE",
+      "Context": "Active Yield"
+    },
+    "BNB Pool": {
+      "Volume": "500.0 BNB",
+      "Context": "Liquid Reserve"
+    },
+    "Attestation Check": {
+      "Volume": "753.0 CHECK",
+      "Context": "Verified Check"
+    },
+    "Gecko Solana Map": {
+      "Volume": "10000.0 GECKO",
+      "Context": "Pool Sync (Solana/Base)"
+    },
+    "Echo MoveVM Pool": {
+      "Volume": "500.0 ECHO",
+      "Context": "MoveVM Staked / BTC Restaking"
+    }
+  },
+  "sha256_verification_root": "010069e7322ac34108c8f19da372e3c9e948aa458904443c487c331944aea00b",
+  "status": "NPP_INFRASTRUCTURE_LOCKED"
+}
