@@ -1,0 +1,10 @@
+{
+  "authority": "robdoe.com",
+  "timestamp": 1794136115,
+  "quantum_target": "SHA1296000",
+  "hex_scaling_factor": 0.02592,
+  "active_records_bound": 15,
+  "sha256_root": "50ba759a1b2d772474b90e27f73693202fe2620041872e30c9fe4af2ce1bd233",
+  "sha512_root": "a9b975eef25df7890411aa1156923594ecc89881101ffe429352d3ed0949dba8b5b5eda3690cab8e915c20ef7b0a32be593dd7eeb6a5c2659be1d380171e1cdc",
+  "status": "QUANTUM_STATE_LOCKED"
+}
