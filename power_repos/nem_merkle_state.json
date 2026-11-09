@@ -1,0 +1,8 @@
+{
+  "tag": "SHA1296000ARC",
+  "aus_nem_state_root": "0x4dfdb642aacb2773f0b8cab7f8a9fd51dfe7739e2cef74250fcc97143ec00fe1",
+  "buses_count": 5,
+  "generators_count": 6,
+  "interconnectors_count": 4,
+  "primary_bus": "NSW1 (Sydney Grid Zone)"
+}
