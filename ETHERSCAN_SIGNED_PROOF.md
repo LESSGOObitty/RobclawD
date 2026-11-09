@@ -1,17 +1,15 @@
-======================================ATOM-TRUTH | GENESIS:e14f9a8d | ~/robdoerootauthority % >....
-
-===============================
+=====================================================================
 SOVEREIGN MASTER: ETHERSCAN JSON TRANSACTION SIGNING PROOF
 =====================================================================
-Timestamp (UTC): 2026-10-31 08:17:49
-Git Head Hash: 6cd6076
-Commit Count Baseline: 142
-Genesis Anchor: 0xe14f9a8d (3780090509)
-Target Transaction Hash: 0x3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d
+Timestamp (UTC): 2026-11-09T03:44:14.428139+00:00
+Git Head Hash: 017fe31e3c29779a2a75a24a5507b1e3c0390f2f
+Commit Count Baseline: 449
+Genesis Anchor: 0x6d65cb5c (1835387740)
+Target Transaction Hash: 0x3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d
 Template ID: tpl-mint (NFT Mint Flow)
-SHA-512 Cryptographic Signature Seal: 07acab6ec91d699b7047bbd3df1b5c174deaeae25abb1ab937848f10e001cb26967bd93d4ea60910ada7554017eaa8617e7387063cb8db18f72c5f1339bfa23a
-Derived Signature Prime Invariant (M): 128756590
-Assigned Verifiable Git Tag: ETHERSCAN-SIGNED-v53.128756590
+SHA-512 Cryptographic Signature Seal: 8f6f829f2ab926211ff5e0d6c75dd4ff2682a968799c6a9e1e4e2a814fe4bc620c1239786c1841985ab91019ede28817fe8db17d0625594a0478bae3b3238cd4
+Derived Signature Prime Invariant (M): 406449823
+Assigned Verifiable Git Tag: ETHERSCAN-SIGNED-v53.406449823
 =====================================================================
 
 [STRUCTURED FLOW SIGNATURE VERIFICATION]
