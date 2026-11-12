@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-11-08T12:56:01Z",
+  "magnetic_frequency_hz": 54,
+  "derived_rpm": 3240,
+  "stator_voltage": 14.36,
+  "pool_hash": "496b06319b80df8dbb9edaa80c9b154dd84ff7c74e33b9e4f57e67f8ac7b0489f83d21e898af0c5e527ee584579f8c0a0df8203998257f6e57c7ee663dffeb9b",
+  "status": "locked"
+}

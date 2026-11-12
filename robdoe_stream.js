@@ -1,5 +1,6 @@
 const crypto = require('crypto');
 const fs = require('fs');
+const readline = require('readline');
 
 const timestamp = new Date().toISOString();
 const payload = JSON.stringify({ device: "Motorola-Mobile", node: "robdoe.termux", time: timestamp });
@@ -25,9 +26,10 @@ let linesPrinted = 0;
 
 const streamInterval = setInterval(() => {
   const dynamicHash = crypto.createHash('sha256').update(Math.random().toString() + Date.now()).digest('hex');
-  const colors = [82, 196, 202, 208, 214, 220, 51];
+  const colors =;
   const selectedColor = colors[Math.floor(Math.random() * colors.length)];
  
+  // Format simulated telemetry payload logs passing validation checks
   process.stdout.write(`\x1b[38;5;${selectedColor}m[VERIFIED_TRUE] [MOTO_NODE_STREAM] ADDR: 0x${dynamicHash.substring(0,8)} | SIGNATURE: espVmark_${dynamicHash.substring(8,24)} | STATUS: OK\x1b[0m\n`);
  
   linesPrinted++;
@@ -37,6 +39,6 @@ const streamInterval = setInterval(() => {
   }
 }, 40);
 
-mkdirSync('/data/data/com.termux/files/home/Matrix-Ledger', { recursive: true });
+// Log output string to background database array
 const logLine = `[${timestamp}] MOTO_NODE_INITIALIZED | NODE: robdoe.termux | SIG: ${signature}\n`;
 fs.appendFileSync('/data/data/com.termux/files/home/Matrix-Ledger/MATRIX_JURY_LOGS.json', logLine, 'utf8');

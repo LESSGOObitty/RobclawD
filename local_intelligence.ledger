@@ -1,0 +1,18 @@
+[
+  {
+    "header": {
+      "status": "CORRELATED",
+      "prev_seal": "00000000000000000000000000000000",
+      "sha512_seal": "ecd71cdc7a62d2469e504483c405c998"
+    },
+    "sigint": {
+      "timestamp": "2026-11-08T19:41:00Z",
+      "bssid": "A4:2B:8C:11:90:EF",
+      "rssi": -62
+    },
+    "osint": {
+      "target": "TARGET_ALPHA",
+      "ip": "185.220.101.5"
+    }
+  }
+]

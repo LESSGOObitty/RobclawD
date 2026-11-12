@@ -1,0 +1,54 @@
+{
+  "ledger": {
+    "tag": 72,
+    "seal": "DHA1296000",
+    "scope": "Unified Planetary CHON + Kuramoto + Tree-of-Life Metric Space",
+    "total_nodes": 6,
+    "root_hash": "cebca2768bc1e37769909eab3049c6c3548a38dc9853dc252fcbec8e78b822e2",
+    "layers": 2
+  },
+  "nodes": [
+    {
+      "domain": "M\u0101ori",
+      "node": "Ng\u0101 Hau e Wh\u0101",
+      "element": "Wind/Breath",
+      "chon": "O/N",
+      "geometry": "Tetrahedron (4D)"
+    },
+    {
+      "domain": "M\u0101ori",
+      "node": "Ng\u0101 Atua",
+      "element": "Primal Energy",
+      "chon": "C/H",
+      "geometry": "Hexagon (7D)"
+    },
+    {
+      "domain": "Physics",
+      "node": "Quarks / Gluons",
+      "element": "Strong Force",
+      "chon": "Subatomic",
+      "geometry": "Vector Equilibrium"
+    },
+    {
+      "domain": "Physics",
+      "node": "Electrons / Photons",
+      "element": "Current / Light",
+      "chon": "Electromagnetic",
+      "geometry": "Wave Phase \u03a8\u03b3"
+    },
+    {
+      "domain": "Biology",
+      "node": "Ion Channels",
+      "element": "Na+, K+, Ca2+, Cl-",
+      "chon": "Aqueous Phase",
+      "geometry": "0.052 Circuit Loop"
+    },
+    {
+      "domain": "Grid",
+      "node": "Hallett / Bundey",
+      "element": "Inertial Node",
+      "chon": "System Mass \u03c1k",
+      "geometry": "1/7200 Sampling Tick"
+    }
+  ]
+}

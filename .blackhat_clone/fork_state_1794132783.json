@@ -1,0 +1,7 @@
+{
+  "node_type": "ADVERSARIAL_BLACKHAT_CLONE",
+  "fork_timestamp": 1794132783,
+  "parent_invariant": "inv_b4f8a481dc645cd0",
+  "injected_fault": "BYZANTINE_STATE_MUTATION",
+  "adversary_signature": "681cceaf0ade75bc0d6e338b462cc389"
+}

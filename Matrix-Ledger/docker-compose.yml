@@ -1,0 +1,27 @@
+services:
+  jarvis-oracle:
+    build: .
+    container_name: jarvis-atmospheric-truth-oracle
+    ports:
+      - "3001:3001"
+    environment:
+      LOCATION: Sydney
+      LATITUDE: -33.8688
+      LONGITUDE: 151.2093
+      YOUTUBE_STREAM_KEY: 5ce6-q7bz-01hq-3yhp-etbx
+      PORT: 3001
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3001/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+    volumes:
+      - ./jarvis-oracle.js:/app/jarvis-oracle.js
+      - ./package.json:/app/package.json
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
