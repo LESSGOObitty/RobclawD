@@ -1,0 +1,9 @@
+{
+  "system": "RobDoeAI-Core // Productivity Density Lattice",
+  "operator": "root@robdoe.com",
+  "timestamp": "2026-11-13T19:41:48Z",
+  "raw_hours": 15,
+  "standard_work_years": 0.0075910931174089065,
+  "standard_work_days": 1.973684210526316,
+  "status": "DENSITY_MAXED"
+}
