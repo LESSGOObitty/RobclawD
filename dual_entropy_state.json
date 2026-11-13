@@ -1,0 +1,24 @@
+{
+  "system": "RobDoeAI-Core // Dual-State Entropy Engine (Stillness in Motion)",
+  "operator": "root@robdoe.com",
+  "beneficiary": "robdoe.inc-charity",
+  "timestamp": "2026-11-13T19:05:03Z",
+  "anchored_merkle_root": "c1fe439476a2f613d766a869d9d34b93c384d0deab0dbd0e9350d82a308a2d30",
+  "high_entropy_domain": {
+    "mode": "HIGH_ENTROPY_CHAOS_SEED",
+    "shannon_bits_per_byte": 5.71875,
+    "theoretical_max": 8.0,
+    "csprng_hex": "5c90f4b2b9e6e50e45cc53fc3284914954514980eb61dd9bdc89bf46d2f3fa683e97bad5c0aaa19f4b760f1718269bfc33d5beaeaae92390bac9da725ca0e5ee",
+    "fused_sha512_key": "9c74c0cde13f4c8b92802a02f02d301783ea80a432c18437793b1cb2b3ecdc3e46ebd8abcaaa881a2948ba94938455725ecdc10419eb22707a944cb050448049",
+    "purpose": "Cryptographic nonces, ERC-721/1155 salt generation, ZKP blinding factors"
+  },
+  "low_entropy_domain": {
+    "mode": "LOW_ENTROPY_DETERMINISTIC_LOCK",
+    "stillness_vector_entropy": 0.0,
+    "canonical_payload_entropy": 4.95527,
+    "canonical_sha256": "0bbb6d3c808bd89e74f98e0cbd91f6b87620021fedcc72853c818abe258cda73",
+    "packed_bytes": 289,
+    "purpose": "Immutable B-Tree root anchoring, zero-drift ledger verification, BMF compliance"
+  },
+  "stillness_in_motion_equilibrium_sha256": "eb8105efb95a18b7ef7ea43d9c01b27c54778eb28cad77590e4f5fa46ea4a6fa"
+}
