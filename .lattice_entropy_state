@@ -81,8 +81,12 @@ ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
     ├─ SHA256: 6065a6ab0b03478e...
     ├─ Entropy: 3.8945 bits/byte
     └─ Size: 4834 bytes
+[*] NODE: ./.chon_harmonic_resonance.json
+    ├─ SHA256: 83a22d0d737bf950...
+    ├─ Entropy: 4.9234 bits/byte
+    └─ Size: 461 bytes
 ==================================================
-[+] LATTICE GLOBAL SHANNON ENTROPY: 4.5890 bits/byte
-[+] TOTAL MONOLITH PAYLOAD: 828707 bytes
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.5892 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 829168 bytes
 [+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
 ==================================================
