@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-11-14T09:37:33.414+11:00",
+    "operator": "root@robdoe.com",
+    "tld": "robdoe.pty",
+    "mesh_node": "0.0.0.0:5555",
+    "consensus_engine": "Native-Epoll-BFT-Thanos",
+    "merkle_root_hash": "985954db5a3c5b37d6a2feee4ff8c18a8563af69a037acb7c1bdc8e3b0a5b106",
+    "lattice_status": "ALIGNED_AND_BOUND"
+  },
+  {
+    "timestamp": "2026-11-14T09:38:02.478+11:00",
+    "operator": "root@robdoe.com",
+    "tld": "robdoe.pty",
+    "mesh_node": "0.0.0.0:5555",
+    "consensus_engine": "Native-Epoll-BFT-Thanos",
+    "merkle_root_hash": "985954db5a3c5b37d6a2feee4ff8c18a8563af69a037acb7c1bdc8e3b0a5b106",
+    "lattice_status": "ALIGNED_AND_BOUND"
+  },
+  {
+    "timestamp": "2026-11-14T09:38:26.654+11:00",
+    "operator": "root@robdoe.com",
+    "tld": "robdoe.pty",
+    "mesh_node": "0.0.0.0:5555",
+    "consensus_engine": "Native-Epoll-BFT-Thanos",
+    "merkle_root_hash": "985954db5a3c5b37d6a2feee4ff8c18a8563af69a037acb7c1bdc8e3b0a5b106",
+    "lattice_status": "ALIGNED_AND_BOUND"
+  },
+  {
+    "timestamp": "2026-11-14T09:40:22.723+11:00",
+    "operator": "root@robdoe.com",
+    "tld": "robdoe.pty",
+    "mesh_node": "0.0.0.0:5555",
+    "consensus_engine": "Native-Epoll-BFT-Thanos",
+    "merkle_root_hash": "985954db5a3c5b37d6a2feee4ff8c18a8563af69a037acb7c1bdc8e3b0a5b106",
+    "lattice_status": "ALIGNED_AND_BOUND"
+  }
+]

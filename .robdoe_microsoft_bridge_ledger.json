@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2026-11-14T09:53:35.141+11:00",
+    "operator": "root@robdoe.com",
+    "tld": "robdoe.pty",
+    "bridge": "Microsoft-PowerShell-Interop",
+    "generated_file": "ghostnet_connect.ps1",
+    "merkle_root": "985954db5a3c5b37d6a2feee4ff8c18a8563af69a037acb7c1bdc8e3b0a5b106",
+    "status": "MODULE_COMPILED"
+  }
+]

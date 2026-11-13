@@ -1,0 +1,8 @@
+{
+  "operator": "root@robdoe.com",
+  "target_nodes": 30,
+  "timeline_days": 10,
+  "multiplier": "30x",
+  "invariant": 932808725,
+  "status": "SCALING_VECTOR_LOCKED"
+}
