@@ -53,8 +53,20 @@ ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
     ├─ SHA256: 83ecbc06a0b3223d...
     ├─ Entropy: 5.3566 bits/byte
     └─ Size: 530 bytes
+[*] NODE: ./ARCHITECTURE_AUDIT.json
+    ├─ SHA256: 9f336583ed559a9d...
+    ├─ Entropy: 4.9833 bits/byte
+    └─ Size: 1042 bytes
+[*] NODE: ./lattice_health.sh
+    ├─ SHA256: 924eb99b519d92dd...
+    ├─ Entropy: 5.0197 bits/byte
+    └─ Size: 1056 bytes
+[*] NODE: ./.wushu_internal_clarity
+    ├─ SHA256: 3ef27b76309140b7...
+    ├─ Entropy: 4.8785 bits/byte
+    └─ Size: 490 bytes
 ==================================================
-[+] LATTICE GLOBAL SHANNON ENTROPY: 4.8146 bits/byte
-[+] TOTAL MONOLITH PAYLOAD: 11321 bytes
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.8451 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 13909 bytes
 [+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
 ==================================================
