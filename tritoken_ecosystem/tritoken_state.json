@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-13T18:52:17Z",
+  "status": "SELF_SUFFICIENT_CLOSED_LOOP [1 of 1]",
+  "erc20_balances": {
+    "root@robdoe.com": 7100000.0,
+    "robdoe.inc-charity": 10000.0,
+    "ecosystem_reserve": 10000.0,
+    "co_owner_pool": 80000.0
+  },
+  "erc721_deed_count": 6,
+  "erc1155_active_shards": {
+    "vector_72": 100
+  }
+}
