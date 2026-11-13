@@ -1,0 +1,6 @@
+{
+  "iteration_target": 96000,
+  "hex_weight_factor": 0.02592,
+  "status": "CALIBRATED",
+  "watermark": "espVmark:2c3f1b0af3a2367a"
+}

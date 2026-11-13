@@ -1,6 +1,0 @@
-{
-  "chain_id": 1337,
-  "node": "termux-arm64-native",
-  "state_root": "0xbb22c3aade5d9188f90551bb585cd63e9f072329f2017b01c7aa9d56ea2cf173",
-  "status": "sealed"
-}

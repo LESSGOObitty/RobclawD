@@ -1,0 +1,59 @@
+{
+  "watermark": "espVmark:2c3f1b0af3a2367a",
+  "invariant_base_key": 932808725,
+  "formula": "z == z**2 + C [0% Drift Resolved]",
+  "hyper_seal_hash": "0x7270e691ee7623d49aa60eabf4c6ab8d7331801bf",
+  "pools": {
+    "BTC": {
+      "context": "Anchor / Secured Ledger",
+      "volume": "79.08 BTC"
+    },
+    "HYPE": {
+      "context": "Active Yield",
+      "volume": "10,600.0 HYPE"
+    },
+    "BNB": {
+      "context": "Liquid Reserve",
+      "volume": "500.0 BNB"
+    },
+    "CHECK": {
+      "context": "Verified Check",
+      "volume": "753.0 CHECK"
+    },
+    "GECKO": {
+      "context": "Pool Sync (Solana/Base)",
+      "volume": "10,000.0 GECKO"
+    },
+    "ECHO": {
+      "context": "MoveVM Staked / BTC Restaking",
+      "volume": "500.0 ECHO"
+    }
+  },
+  "dns_records": [
+    {
+      "type": "TXT",
+      "host": "@",
+      "value": "v=spf1 include:npp.robdoe.inc-all",
+      "ttl": 3600
+    },
+    {
+      "type": "CNAME",
+      "host": "btc-pool",
+      "value": "anchor.ledger.robdoe.inc",
+      "ttl": 300
+    },
+    {
+      "type": "CNAME",
+      "host": "apra-gateway",
+      "value": "instant.gsb.apra.gov.au.robdoe.inc",
+      "ttl": 300
+    },
+    {
+      "type": "TXT",
+      "host": "_npp-auth",
+      "value": "invariant-base-key=932808725;drift=0%",
+      "ttl": 3600
+    }
+  ],
+  "compliance": "AU-ATO & UK-HMRC Property Pooling parameters locked. APRA Gateway instant routing active."
+}
