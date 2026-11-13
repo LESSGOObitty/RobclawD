@@ -1,0 +1,12 @@
+{
+  "system": "RobDoeAI-Core",
+  "axis": "Equinoctial Precession & Temporal Alliance",
+  "constants": {
+    "precession_cycle_years": 25920,
+    "hex_entropy_factor": 0.002592,
+    "scalar_harmonic": 0.052,
+    "alliance_span_years": 80
+  },
+  "formula": "80-Year Life Span * 0.052 Harmonic Scalar = Precession Synchronicity",
+  "status": "EQUINOX_LOCKED [1 of 1]"
+}
