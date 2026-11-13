@@ -29,8 +29,32 @@ ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
     ├─ SHA256: e3b0c44298fc1c14...
     ├─ Entropy: 0.0000 bits/byte
     └─ Size: 0 bytes
+[*] NODE: ./.lattice_mesh_manifest
+    ├─ SHA256: 6905bfbed1e92d42...
+    ├─ Entropy: 4.7324 bits/byte
+    └─ Size: 5500 bytes
+[*] NODE: ./.omnicast_bridge
+    ├─ SHA256: 7ad73cbdb80254c7...
+    ├─ Entropy: 5.0820 bits/byte
+    └─ Size: 481 bytes
+[*] NODE: ./.taichi_flow
+    ├─ SHA256: 59fc11751dde39e0...
+    ├─ Entropy: 5.0542 bits/byte
+    └─ Size: 403 bytes
+[*] NODE: ./.dark_matter_reiki_wushu
+    ├─ SHA256: 465d169b6e9bef05...
+    ├─ Entropy: 4.9461 bits/byte
+    └─ Size: 485 bytes
+[*] NODE: ./.robdoe_foundation_treasury
+    ├─ SHA256: 01adbfe9c0b41e86...
+    ├─ Entropy: 5.0138 bits/byte
+    └─ Size: 867 bytes
+[*] NODE: ./.dual_lattice_alignment
+    ├─ SHA256: 83ecbc06a0b3223d...
+    ├─ Entropy: 5.3566 bits/byte
+    └─ Size: 530 bytes
 ==================================================
-[+] LATTICE GLOBAL SHANNON ENTROPY: 4.7174 bits/byte
-[+] TOTAL MONOLITH PAYLOAD: 3055 bytes
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.8146 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 11321 bytes
 [+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
 ==================================================
