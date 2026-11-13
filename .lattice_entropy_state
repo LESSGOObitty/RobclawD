@@ -65,8 +65,16 @@ ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
     ├─ SHA256: 3ef27b76309140b7...
     ├─ Entropy: 4.8785 bits/byte
     └─ Size: 490 bytes
+[*] NODE: ./expand_7200_lattice.sh
+    ├─ SHA256: 0aa63b24819bbfc8...
+    ├─ Entropy: 5.1220 bits/byte
+    └─ Size: 4203 bytes
+[*] NODE: ./.lattice_7200_graft_manifest.json
+    ├─ SHA256: 164dd5aff017db23...
+    ├─ Entropy: 4.5827 bits/byte
+    └─ Size: 800779 bytes
 ==================================================
-[+] LATTICE GLOBAL SHANNON ENTROPY: 4.8451 bits/byte
-[+] TOTAL MONOLITH PAYLOAD: 13909 bytes
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.5899 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 818891 bytes
 [+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
 ==================================================
