@@ -16,3 +16,30 @@ Matrix-Ledger/
 master-lattice/
 robdoerootauthority/
 LESSGOObitty-Root
+
+# Termux Home Directory & Shell Configs / History
+.bash_history
+.bash_profile
+.bashrc
+.cache/
+.cargo/
+.config/
+.gitconfig
+.local/
+.npm/
+.oh-my-zsh/
+.profile
+.ssh/
+.termux/
+.tmux.conf
+.zcompdump*
+.zsh_history
+.zshrc*
+downloads/
+storage/
+
+# Runtime Logs & Temp Scripts
+commit_production_state.sh
+workspace/logs/
+workspace/telemetry/
+workspace/telemetry.log
