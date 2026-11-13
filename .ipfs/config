@@ -1,12 +1,44 @@
 {
-  "Identity": {
-    "PeerID": "12D3KooWSxowjpVftUWkwULMX1DJHH2oC7VhY6VtW3qXegn1HEFj",
-    "PrivKey": "CAESQOGaQbTHyJxKNi3ksE2FI36ezcOGJutU0OiV16M/uY2p/sB4Ds5+8b3gA2+uRV4eWPlT7d97dd/INqx8yGUINAo="
+  "API": {
+    "HTTPHeaders": {}
+  },
+  "Addresses": {
+    "API": "/ip4/0.0.0.0/tcp/5001",
+    "Announce": [],
+    "AppendAnnounce": [
+      "/ip4/34.68.218.70/tcp/4001",
+      "/ip4/34.68.218.70/udp/4001/quic-v1"
+    ],
+    "Gateway": "/ip4/0.0.0.0/tcp/8080",
+    "NoAnnounce": [],
+    "Swarm": [
+      "/ip4/0.0.0.0/tcp/4001",
+      "/ip6/::/tcp/4001",
+      "/ip4/0.0.0.0/udp/4001/webrtc-direct",
+      "/ip4/0.0.0.0/udp/4001/quic-v1",
+      "/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
+      "/ip6/::/udp/4001/webrtc-direct",
+      "/ip6/::/udp/4001/quic-v1",
+      "/ip6/::/udp/4001/quic-v1/webtransport"
+    ]
+  },
+  "AutoConf": {},
+  "AutoNAT": {},
+  "AutoTLS": {},
+  "Bitswap": {},
+  "Bootstrap": [
+    "auto"
+  ],
+  "DNS": {
+    "Resolvers": {
+      ".": "auto"
+    }
   },
   "Datastore": {
-    "StorageMax": "10GB",
-    "StorageGCWatermark": 90,
+    "BlockKeyCacheSize": null,
+    "BloomFilterSize": 0,
     "GCPeriod": "1h",
+    "HashOnRead": false,
     "Spec": {
       "mounts": [
         {
@@ -27,138 +59,109 @@
       ],
       "type": "mount"
     },
-    "HashOnRead": false,
-    "BloomFilterSize": 0,
-    "BlockKeyCacheSize": null
-  },
-  "Addresses": {
-    "Swarm": [
-      "/ip4/0.0.0.0/tcp/4001",
-      "/ip6/::/tcp/4001",
-      "/ip4/0.0.0.0/udp/4001/webrtc-direct",
-      "/ip4/0.0.0.0/udp/4001/quic-v1",
-      "/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
-      "/ip6/::/udp/4001/webrtc-direct",
-      "/ip6/::/udp/4001/quic-v1",
-      "/ip6/::/udp/4001/quic-v1/webtransport"
-    ],
-    "Announce": [],
-    "AppendAnnounce": [],
-    "NoAnnounce": [],
-    "API": "/ip4/127.0.0.1/tcp/5001",
-    "Gateway": "/ip4/127.0.0.1/tcp/8080"
-  },
-  "Mounts": {
-    "IPFS": "/ipfs",
-    "IPNS": "/ipns",
-    "MFS": "/mfs",
-    "FuseAllowOther": null,
-    "StoreMtime": null,
-    "StoreMode": null
+    "StorageGCWatermark": 90,
+    "StorageMax": "10GB"
   },
   "Discovery": {
     "MDNS": {
       "Enabled": true
     }
   },
+  "Experimental": {
+    "FilestoreEnabled": false,
+    "Libp2pStreamMounting": false,
+    "OptimisticProvide": false,
+    "OptimisticProvideJobsPoolSize": 0,
+    "P2pHttpProxy": false,
+    "UrlstoreEnabled": false
+  },
+  "Gateway": {
+    "AllowCodecConversion": null,
+    "DeserializedResponses": null,
+    "DisableHTMLErrors": null,
+    "ExposeRoutingAPI": null,
+    "HTTPHeaders": {},
+    "NoDNSLink": false,
+    "NoFetch": false,
+    "PublicGateways": null,
+    "RootRedirect": ""
+  },
+  "HTTPRetrieval": {},
+  "Identity": {
+    "PeerID": "12D3KooWSxowjpVftUWkwULMX1DJHH2oC7VhY6VtW3qXegn1HEFj",
+    "PrivKey": "CAESQOGaQbTHyJxKNi3ksE2FI36ezcOGJutU0OiV16M/uY2p/sB4Ds5+8b3gA2+uRV4eWPlT7d97dd/INqx8yGUINAo="
+  },
+  "Import": {
+    "BatchMaxNodes": null,
+    "BatchMaxSize": null,
+    "CidVersion": null,
+    "FastProvideDAG": null,
+    "FastProvideRoot": null,
+    "FastProvideWait": null,
+    "HashFunction": null,
+    "UnixFSChunker": null,
+    "UnixFSDAGLayout": null,
+    "UnixFSDirectoryMaxLinks": null,
+    "UnixFSFileMaxLinks": null,
+    "UnixFSHAMTDirectoryMaxFanout": null,
+    "UnixFSHAMTDirectorySizeEstimation": null,
+    "UnixFSHAMTDirectorySizeThreshold": null,
+    "UnixFSRawLeaves": null
+  },
+  "Internal": {},
+  "Ipns": {
+    "DelegatedPublishers": [
+      "auto"
+    ],
+    "RecordLifetime": "",
+    "RepublishPeriod": "",
+    "ResolveCacheSize": 128
+  },
+  "Migration": {},
+  "Mounts": {
+    "FuseAllowOther": null,
+    "IPFS": "/ipfs",
+    "IPNS": "/ipns",
+    "MFS": "/mfs",
+    "StoreMode": null,
+    "StoreMtime": null
+  },
+  "Peering": {
+    "Peers": null
+  },
+  "Pinning": {
+    "RemoteServices": {}
+  },
+  "Plugins": {
+    "Plugins": null
+  },
+  "Provide": {
+    "DHT": {}
+  },
+  "Provider": {},
+  "Pubsub": {
+    "DisableSigning": false,
+    "Router": ""
+  },
+  "Reprovider": {},
   "Routing": {
     "DelegatedRouters": [
       "auto"
     ]
   },
-  "Ipns": {
-    "RepublishPeriod": "",
-    "RecordLifetime": "",
-    "ResolveCacheSize": 128,
-    "DelegatedPublishers": [
-      "auto"
-    ]
-  },
-  "Bootstrap": [
-    "auto"
-  ],
-  "Gateway": {
-    "HTTPHeaders": {},
-    "RootRedirect": "",
-    "NoFetch": false,
-    "NoDNSLink": false,
-    "DeserializedResponses": null,
-    "AllowCodecConversion": null,
-    "DisableHTMLErrors": null,
-    "PublicGateways": null,
-    "ExposeRoutingAPI": null
-  },
-  "API": {
-    "HTTPHeaders": {}
-  },
   "Swarm": {
     "AddrFilters": null,
+    "ConnMgr": {},
     "DisableBandwidthMetrics": false,
     "DisableNatPortMap": false,
     "RelayClient": {},
     "RelayService": {},
+    "ResourceMgr": {},
     "Transports": {
+      "Multiplexers": {},
       "Network": {},
-      "Security": {},
-      "Multiplexers": {}
-    },
-    "ConnMgr": {},
-    "ResourceMgr": {}
-  },
-  "AutoNAT": {},
-  "AutoTLS": {},
-  "Pubsub": {
-    "Router": "",
-    "DisableSigning": false
-  },
-  "Peering": {
-    "Peers": null
-  },
-  "DNS": {
-    "Resolvers": {
-      ".": "auto"
+      "Security": {}
     }
   },
-  "Migration": {},
-  "AutoConf": {},
-  "Provide": {
-    "DHT": {}
-  },
-  "Provider": {},
-  "Reprovider": {},
-  "HTTPRetrieval": {},
-  "Experimental": {
-    "FilestoreEnabled": false,
-    "UrlstoreEnabled": false,
-    "Libp2pStreamMounting": false,
-    "P2pHttpProxy": false,
-    "OptimisticProvide": false,
-    "OptimisticProvideJobsPoolSize": 0
-  },
-  "Plugins": {
-    "Plugins": null
-  },
-  "Pinning": {
-    "RemoteServices": {}
-  },
-  "Import": {
-    "CidVersion": null,
-    "UnixFSRawLeaves": null,
-    "UnixFSChunker": null,
-    "HashFunction": null,
-    "UnixFSFileMaxLinks": null,
-    "UnixFSDirectoryMaxLinks": null,
-    "UnixFSHAMTDirectoryMaxFanout": null,
-    "UnixFSHAMTDirectorySizeThreshold": null,
-    "UnixFSHAMTDirectorySizeEstimation": null,
-    "UnixFSDAGLayout": null,
-    "BatchMaxNodes": null,
-    "BatchMaxSize": null,
-    "FastProvideRoot": null,
-    "FastProvideDAG": null,
-    "FastProvideWait": null
-  },
-  "Version": {},
-  "Internal": {},
-  "Bitswap": {}
+  "Version": {}
 }

@@ -1,40 +1,38 @@
-import os
+import glob
+import sys
 import time
-from datetime import datetime
 
-LOG_PATH = os.path.expanduser("~/workspace/logs/esp32_telemetry.log")
-os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
+try:
+    import serial
+except ImportError:
+    print("[-] pyserial missing. Run: pip install pyserial")
+    sys.exit(1)
 
-# Default serial port in Termux for USB OTG devices (adjust if using /dev/ttyACM0)
-SERIAL_PORT = os.environ.get("ESP32_PORT", "/dev/ttyUSB0")
-BAUD_RATE = int(os.environ.get("ESP32_BAUD", "115200"))
-
-def log_telemetry(data):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    line = f"[{timestamp}] {data.strip()}\n"
-    with open(LOG_PATH, "a") as f:
-        f.write(line)
-    print(line, end="")
+def find_serial_port():
+    ports = glob.glob('/dev/ttyUSB*') + glob.glob('/dev/ttyACM*')
+    return ports
 
 def main():
-    print(f"[*] Initializing ESP32 listener on {SERIAL_PORT} @ {BAUD_RATE}...")
-    try:
-        import serial
-    except ImportError:
-        print("[!] pyserial not found. Install it via: pip install pyserial")
-        return
-
+    print("[*] Initializing ESP32 Serial Telemetry Daemon...")
     while True:
+        ports = find_serial_port()
+        if not ports:
+            print("[-] No serial devices found (/dev/ttyUSB* or /dev/ttyACM*). Retrying...")
+            time.sleep(3)
+            continue
+            
+        port = ports[0]
+        print(f"[+] Found active interface on {port}. Opening at 115200 baud...")
         try:
-            with serial.Serial(SERIAL_PORT, BAUD_RATE, timeout=2) as ser:
-                print(f"[+] Connected to ESP32 stream on {SERIAL_PORT}")
+            with serial.Serial(port, 115200, timeout=1) as ser:
                 while True:
-                    line = ser.readline().decode('utf-8', errors='ignore')
-                    if line.strip():
-                        log_telemetry(line)
+                    line = ser.readline().decode('utf-8', errors='ignore').strip()
+                    if line:
+                        timestamp = time.strftime('%Y-%m-%d %H:%M:%S')
+                        print(f"[{timestamp}] [TELEMETRY] {line}")
         except Exception as e:
-            print(f"[!] Serial connection waiting/retry error: {e}")
-            time.sleep(5)
+            print(f"[-] Serial stream error on {port}: {e}")
+            time.sleep(2)
 
 if __name__ == "__main__":
     main()
