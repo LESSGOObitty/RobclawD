@@ -21,5 +21,15 @@
 pkg_entropy.bin
 target_database.db
 downloads/
-workspace/
 storage/
+
+# Zsh / Oh-My-Zsh / npm runtime caches
+.oh-my-zsh/
+.npm/
+.zcompdump*
+.zshrc.pre-oh-my-zsh
+
+# Workspace runtime outputs
+workspace/logs/
+workspace/manifests/*.csv
+__pycache__/
