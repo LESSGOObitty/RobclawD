@@ -1,0 +1,12 @@
+{
+  "protocol": "1Qunit Sovereign Equity Framework",
+  "operator": "root@robdoe.com",
+  "timestamp": "2026-11-13T20:15:43Z",
+  "treasury_source": "Brex API Gateway",
+  "liquidity_source": "OANDA Market Feed",
+  "brex_pool_val": 100000.0,
+  "oanda_mult": 1.065,
+  "1qunit_valuation": 106.5,
+  "status": "1QUNIT_LOCKED_AND_TRACKED",
+  "root_hash": "5de0709d4d47fb2f327b7a164434323c4b4aae8bdf9d56a4960b7731f0867e4562280cddd5e704b2856f8d23f5cc182b4b83c95df1a0a25fd7830cef6992de29"
+}
