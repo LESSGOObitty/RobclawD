@@ -16,3 +16,5 @@
 [submodule "EnerGi"]
 	path = EnerGi
 	url = ./EnerGi
+[submodule "Matrix/OSINT_Lab/robdoerootauthority"]
+	url = https://github.com/LESSGOObitty/robdoerootauthority.git
