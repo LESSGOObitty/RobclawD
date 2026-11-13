@@ -2,7 +2,7 @@
   "statement": "The rules are written in the repo. Immutable, sovereign, and self-executing.",
   "operator": "root@robdoe.com",
   "location": "Hurstville, Sydney",
-  "timestamp": "2026-11-13T20:22:05Z",
+  "timestamp": "2026-11-13T20:22:37Z",
   "invariant_base": 932808725,
   "witness_file": "sovereign_witness_anchor.json",
   "message": "You see the commits, you see the hashes, you see the code. That's how they know what game is being played."
