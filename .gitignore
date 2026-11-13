@@ -1,35 +1,18 @@
-# System and Shell Histories
-.bash_history
-.zsh_history
-.cache/
-.cargo/
-.config/
-.local/
-.ssh/
-.termux/
-.tmux.conf
-.zshrcx
-.gitconfig
-.profile
-.bash_profile
-.bashrc
-.zshrc
+# IPFS Daemon & Local State Noise
+.ipfs/
+.git-credentials
+.termux_authinfo
+.lattice_entropy_state
 
-# Logs and Local Runtime State
-*.log
-*.bin
-pkg_entropy.bin
-target_database.db
-downloads/
-storage/
+# Runtime Logs & Temp Scripts
+live_broadcast_engine.py
+run_sovereign_lattice.py
+thermal_check.py
+witness_and_hubs_seal.py
 
-# Zsh / Oh-My-Zsh / npm runtime caches
-.oh-my-zsh/
-.npm/
-.zcompdump*
-.zshrc.pre-oh-my-zsh
-
-# Workspace runtime outputs
-workspace/logs/
-workspace/manifests/*.csv
-__pycache__/
+# Submodules & Workspace Caches
+Matrix/
+Matrix-Ledger/
+master-lattice/
+robdoerootauthority/
+LESSGOObitty-Root
