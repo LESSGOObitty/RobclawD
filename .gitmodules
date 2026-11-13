@@ -1,0 +1,18 @@
+[submodule "MP-SPDZ-archive"]
+	path = MP-SPDZ-archive
+	url = ./MP-SPDZ-archive
+[submodule "NEMOSIS-archive"]
+	path = NEMOSIS-archive
+	url = ./NEMOSIS-archive
+[submodule "awesome-free-aiftrobdoe-archive"]
+	path = awesome-free-aiftrobdoe-archive
+	url = ./awesome-free-aiftrobdoe-archive
+[submodule "opennem-archive"]
+	path = opennem-archive
+	url = ./opennem-archive
+[submodule "spaceRobDswarm-archive"]
+	path = spaceRobDswarm-archive
+	url = ./spaceRobDswarm-archive
+[submodule "EnerGi"]
+	path = EnerGi
+	url = ./EnerGi
