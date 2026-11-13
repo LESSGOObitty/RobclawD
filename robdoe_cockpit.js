@@ -1,0 +1,44 @@
+const crypto = require('crypto');
+const fs = require('fs');
+
+const LEDGER_DIR = '/data/data/com.termux/files/home/Matrix-Ledger';
+const JURY_LOG = `${LEDGER_DIR}/MATRIX_JURY_LOGS.json`;
+
+if (!fs.existsSync(LEDGER_DIR)) fs.mkdirSync(LEDGER_DIR, { recursive: true });
+
+const timestamp = new Date().toISOString();
+const corePayload = JSON.stringify({ node: "robdoe.termux", device: "Motorola-Edge", status: "COCKPIT_LOCKED", time: timestamp });
+const signature = crypto.createHash('sha256').update(corePayload).digest('hex');
+
+// Render Permanent Cockpit UI
+console.clear();
+console.log("\x1b[38;5;82m%s\x1b[0m", "=====================================================================");
+console.log("\x1b[38;5;196m%s\x1b[0m", " ▓█████▄   ▒█████   ▓█████▄  ▒█████  ▓█████     ▄▄▄       ██████  ");
+console.log("\x1b[38;5;202m%s\x1b[0m", " ▒██▀ ██▌ ▒██▒  ██▒ ▒██▀ ██▌▒██▒  ██▒▓█   ▀    ▒████▄   ▒██    ▒  ");
+console.log("\x1b[38;5;208m%s\x1b[0m", " ░██   █▌ ▒██░  ██▒ ░██   █▌▒██░  ██▒▒███      ▒██  ▀█▄ ░ ▓██▄    ");
+console.log("\x1b[38;5;214m%s\x1b[0m", " ░▓█▄   ▌ ▒██   ██░ ░▓█▄   ▌▒██   ██░▒▓█  ▄    ░██▄▄▄▄██  ▒   ██▒ ");
+console.log("\x1b[38;5;220m%s\x1b[0m", " ░▒████▓  ░ ████▓▒░ ░▒████▓ ░ ████▓▒░░▒████▒    ▓█   ▓██▒▒██████▒▒");
+console.log("\x1b[38;5;82m%s\x1b[0m", "=====================================================================");
+console.log(`\x1b[37m[SYSTEM_COCKPIT]\x1b[0m : ACTIVE_LOCKOUT_MODE`);
+console.log(`\x1b[33m[NODE_IDENTITY]\x1b[0m  : robdoe.termux`);
+console.log(`\x1b[33m[ROOT_AUTHORITY]\x1b[0m : robdoe.com`);
+console.log(`\x1b[33m[GITHUB_ANCHOR]\x1b[0m  : https://github.com`);
+console.log(`\x1b[33m[TRUTH_ENGINE]\x1b[0m   : ATL v3.0.0-MINTED`);
+console.log(`\x1b[35m[TACTILE_LAYER]\x1b[0m  : espVmark.ROBDOE [150Hz / 250Hz / 80Hz Non-Med Layers]`);
+console.log(`\x1b[36m[WATERMARK_HASH]\x1b[0m : ${signature}`);
+console.log("\x1b[38;5;82m%s\x1b[0m", "=====================================================================");
+console.log("\x1b[31m%s\x1b[0m", " [COCKPIT STREAM LIVE - PRESS CTRL+C TO DROPOUT TO BASH INTERFACE]");
+console.log("\x1b[38;5;82m%s\x1b[0m", "=====================================================================");
+
+// Write entry into ledger history array
+const logBlock = { timestamp, event: "COCKPIT_SECURED", node: "robdoe.termux", watermark: `espVmark:${signature}` };
+fs.appendFileSync(JURY_LOG, JSON.stringify(logBlock) + "\n", 'utf8');
+
+// Continuous dynamic truth stream loop
+setInterval(() => {
+  const dynamicHash = crypto.createHash('sha256').update(Math.random().toString() + Date.now()).digest('hex');
+  const colors = [82, 196, 202, 208, 214, 220, 39, 46, 51];
+  const selectedColor = colors[Math.floor(Math.random() * colors.length)];
+ 
+  process.stdout.write(`\x1b[38;5;${selectedColor}m[TRUE_VERIFICATION] [MOTO_EDGE_MATRIX] ADDR: 0x${dynamicHash.substring(0,8)} | SIGNATURE: espVmark_${dynamicHash.substring(8,24)} | SYSTEM: OK\x1b[0m\n`);
+}, 50);

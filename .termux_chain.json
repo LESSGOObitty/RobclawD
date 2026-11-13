@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1794563875.8409698,
+    "data": {
+      "note": "ROBDOE GENESIS ANCHOR",
+      "watermark": "espVmark:2c3f1b0af3a2367a"
+    },
+    "previous_hash": "0",
+    "nonce": 73,
+    "hash": "0052a1f167860f2bd0740a4462fdd333e422edaf601480afe1e3663dff8a9871"
+  },
+  {
+    "index": 1,
+    "timestamp": 1794563875.8437421,
+    "data": {
+      "telemetry": "Block 26405078-5126 batch processed",
+      "status": "secured"
+    },
+    "previous_hash": "0052a1f167860f2bd0740a4462fdd333e422edaf601480afe1e3663dff8a9871",
+    "nonce": 128,
+    "hash": "00b17f28c673a0ada582faeb220d5d5cf5ca7c8fedd9d10c445843169aa465ee"
+  },
+  {
+    "index": 2,
+    "timestamp": 1794563958.3690963,
+    "data": {
+      "node": "Cloudflare Edge",
+      "latency_ms": 42.23,
+      "storage": "healthy",
+      "status": "operational"
+    },
+    "previous_hash": "00b17f28c673a0ada582faeb220d5d5cf5ca7c8fedd9d10c445843169aa465ee",
+    "nonce": 1174,
+    "hash": "0099db1036308118351e7d63257afff4b277de87c547c68b9caffe8161a9d41c"
+  },
+  {
+    "index": 3,
+    "timestamp": 1794563997.2328904,
+    "data": {
+      "node": "Cloudflare Edge",
+      "latency_ms": 42.23,
+      "storage": "healthy",
+      "status": "operational"
+    },
+    "previous_hash": "0099db1036308118351e7d63257afff4b277de87c547c68b9caffe8161a9d41c",
+    "nonce": 81,
+    "hash": "0088f0056d568592855b67d160d4ec5b6f76916a0ee538100897c31d483cf3d1"
+  }
+]

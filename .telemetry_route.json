@@ -1,0 +1,6 @@
+{
+  "name": "cloudflare_edge",
+  "host": "1.1.1.1",
+  "ip": "1.1.1.1",
+  "latency_ms": 52.31
+}
