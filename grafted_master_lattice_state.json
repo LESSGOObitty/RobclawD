@@ -1,0 +1,23 @@
+{
+  "system": "RobDoeAI-Core // Master Grafted Merkle DAG Parent Lattice",
+  "operator": "root@robdoe.com",
+  "beneficiary": "robdoe.inc-charity",
+  "timestamp": "2026-11-13T19:21:52Z",
+  "graft_parent_merkle_root": "7afea81b213fee266b8ce69534b0a65a0978b4f8d4ca9a6a88b277e62892c32e",
+  "hierarchical_lattice_hash": "182fa7eba2fdb0a81a99296cba2641f91dbc029359f5c9878779dcddbdd1ae97",
+  "grafted_nodes": [
+    {
+      "source": "dual_entropy_equilibrium",
+      "merkle_root": "9b2b823883a4087a6565154e4801fe7ea80846878bb7cdce9385277c14ffc4d7"
+    },
+    {
+      "source": "external_lattice_repos",
+      "merkle_root": "c1fe439476a2f613d766a869d9d34b93c384d0deab0dbd0e9350d82a308a2d30"
+    },
+    {
+      "source": "local_working_tree",
+      "merkle_root": "95511c6489f09ad3bbd9dd2a78f671969c76172a63b6633d076ce9d5e74f296f"
+    }
+  ],
+  "status": "GRAFTED_AND_LOCKED"
+}
