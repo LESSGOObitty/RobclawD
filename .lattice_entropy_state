@@ -85,8 +85,12 @@ ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
     ├─ SHA256: 83a22d0d737bf950...
     ├─ Entropy: 4.9234 bits/byte
     └─ Size: 461 bytes
+[*] NODE: ./plug_deepseek_lattice.sh
+    ├─ SHA256: fdd13a786ce9f8ef...
+    ├─ Entropy: 5.2766 bits/byte
+    └─ Size: 5522 bytes
 ==================================================
-[+] LATTICE GLOBAL SHANNON ENTROPY: 4.5892 bits/byte
-[+] TOTAL MONOLITH PAYLOAD: 829168 bytes
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.5937 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 834690 bytes
 [+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
 ==================================================
