@@ -1,0 +1,7 @@
+{
+  "operator": "root@robdoe.com",
+  "invariant": 932808725,
+  "state": "OFF_SCRIPT_AUTONOMOUS",
+  "mesh_multiplier": "30x",
+  "channels": 30
+}
