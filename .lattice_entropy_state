@@ -1,0 +1,36 @@
+==================================================
+ROBDOEROOTAUTHORITY // LATTICE INFORMATION MATRIX
+==================================================
+[*] NODE: ./README.md
+    ├─ SHA256: 786b7599741d10f9...
+    ├─ Entropy: 4.0195 bits/byte
+    └─ Size: 25 bytes
+[*] NODE: ./.telemetry_pulse
+    ├─ SHA256: 95a2236cd81cd2b5...
+    ├─ Entropy: 3.2728 bits/byte
+    └─ Size: 21 bytes
+[*] NODE: ./.blockchain_state
+    ├─ SHA256: 3c40fc82c9c242da...
+    ├─ Entropy: 5.1823 bits/byte
+    └─ Size: 179 bytes
+[*] NODE: ./.foundation_identity
+    ├─ SHA256: 1cd9154e3df7c14d...
+    ├─ Entropy: 5.2777 bits/byte
+    └─ Size: 367 bytes
+[*] NODE: ./pulse.sh
+    ├─ SHA256: 938011d669167bdf...
+    ├─ Entropy: 4.8927 bits/byte
+    └─ Size: 300 bytes
+[*] NODE: ./entropy_dag.py
+    ├─ SHA256: cb38fc061a3c421e...
+    ├─ Entropy: 4.5817 bits/byte
+    └─ Size: 2163 bytes
+[*] NODE: ./.lattice_entropy_state
+    ├─ SHA256: e3b0c44298fc1c14...
+    ├─ Entropy: 0.0000 bits/byte
+    └─ Size: 0 bytes
+==================================================
+[+] LATTICE GLOBAL SHANNON ENTROPY: 4.7174 bits/byte
+[+] TOTAL MONOLITH PAYLOAD: 3055 bytes
+[+] MERKLE ROOT DAG: 1 of 1 Sovereign Verified
+==================================================
