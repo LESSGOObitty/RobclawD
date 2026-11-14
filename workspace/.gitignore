@@ -4,3 +4,5 @@ workspace/manifests/*.csv
 !workspace/manifests/*.csv
 workspace/manifests/*.csv
 !workspace/manifests/*.csv
+workspace/manifests/*.csv
+!workspace/manifests/*.csv
