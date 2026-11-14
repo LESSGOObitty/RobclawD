@@ -1,33 +1,33 @@
 {
-  "timestamp": 1794663798,
+  "timestamp": 1794667402,
   "total_nodes": 12000,
   "healthy_nodes": 12000,
-  "master_merkle_root": "2bf1b4a1a74aa6e7795897532c1d161b3c26a0daf2455f03e388d85560f8ef64",
+  "master_merkle_root": "d859f86c4bd6ed88a390004a9534ed748f5bfd2cb406a4a9e8965a9e741d08da",
   "sample_nodes": [
     {
       "node_id": "inv_00001",
       "status": "synchronized",
-      "dag_root": "b68239d61492bbc175a236bb28f3883437f7fac9585dc52489ea14071ce80b14"
+      "dag_root": "2dc998e2b2699324ee5bcdfc920cfefc7603e2f8763b49c93c0ba733e78b7527"
     },
     {
       "node_id": "inv_00002",
       "status": "synchronized",
-      "dag_root": "a3a2b4bd03aad1630de218750320d2c1830f2c05419c9cbf606905063aef0db6"
+      "dag_root": "567114e587e6896b9f3ea3a84053d542bea8211e512514c0f837735a5a3512e9"
     },
     {
       "node_id": "inv_00003",
       "status": "synchronized",
-      "dag_root": "ab240358563f68b13ca301263952b39fadd6cb4e1965f9500adbf1fdaed8d689"
+      "dag_root": "56356676187514fb6fd66cf501cdc08b79c497d6fd4e87d7f917d575e418770b"
     },
     {
       "node_id": "inv_00004",
       "status": "synchronized",
-      "dag_root": "e4818188b410256c56fbdd7844e95a3f2c7832dba1462286d1ad758a8a373141"
+      "dag_root": "20a75f2d4839043411974bbf647b9d4d47c5aa2fee4d3b82697ef55eee8c1734"
     },
     {
       "node_id": "inv_00005",
       "status": "synchronized",
-      "dag_root": "a9f1efb0009574816ed2420f7970a70d85ba375d461c45defe6dbc301dedece4"
+      "dag_root": "b5623b4536ee4cb9bcc97c2d62ee2a7c2acc0d037703fc7d1521850c81cb1001"
     }
   ]
 }
