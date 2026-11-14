@@ -1,0 +1,33 @@
+{
+  "timestamp": 1794649384,
+  "total_nodes": 12000,
+  "healthy_nodes": 12000,
+  "master_merkle_root": "923f5d22cd7a2118789b9c245e59a15d7a9172a83bfae8d38b7766d648945100",
+  "sample_nodes": [
+    {
+      "node_id": "inv_00001",
+      "status": "synchronized",
+      "dag_root": "52046a2dc148a76e13e99185477a708b65816183db392f7aa93ebd61a293d357"
+    },
+    {
+      "node_id": "inv_00002",
+      "status": "synchronized",
+      "dag_root": "e2eb2ff292f06942b271e4a961efbc68e95c76ecac2783658002250f0b8421fb"
+    },
+    {
+      "node_id": "inv_00003",
+      "status": "synchronized",
+      "dag_root": "27a1d2ddcd39ab8fddde3a8534964d46ed9f0f12ce9f057c8ff43fd0f21760f5"
+    },
+    {
+      "node_id": "inv_00004",
+      "status": "synchronized",
+      "dag_root": "333fa9e54289e8d398e864833a1a9da30adea5b629ad4ba705703b1e8b859bc1"
+    },
+    {
+      "node_id": "inv_00005",
+      "status": "synchronized",
+      "dag_root": "18a8c73071982488228e4e10251b0fb2caa5acfa43fe8ef80dbba12d274a1a06"
+    }
+  ]
+}

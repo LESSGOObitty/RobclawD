@@ -1,0 +1,35 @@
+{
+  "timestamp": 1794646249,
+  "total_chains": 12000,
+  "committed_chains": 12000,
+  "master_bft_root": "da2e4767ec46e58d4c68ea6a3219b885f50b9fc6bba9b1aa9a71bb9860d84e47",
+  "sample_verification": [
+    {
+      "node_id": "inv_00001",
+      "chain_id": 900001,
+      "evm_profile": "byzantium",
+      "consensus": "aBFT-Sovereign",
+      "state_root": "f002b53783a14aefa453baf9a7ddd54df76347e1f146cc7397af00ce8a2cf1fd",
+      "nonce": 1,
+      "status": "committed"
+    },
+    {
+      "node_id": "inv_00002",
+      "chain_id": 900002,
+      "evm_profile": "byzantium",
+      "consensus": "aBFT-Sovereign",
+      "state_root": "4db878db0910c6a3f54d8a4d297d06d50ca0ff41b5d706a3e9a32adafef28ba5",
+      "nonce": 1,
+      "status": "committed"
+    },
+    {
+      "node_id": "inv_00003",
+      "chain_id": 900003,
+      "evm_profile": "byzantium",
+      "consensus": "aBFT-Sovereign",
+      "state_root": "895b6ec1a71d308435419bf6745750fa8e8f7c040f811452a4ae564387dba9fd",
+      "nonce": 1,
+      "status": "committed"
+    }
+  ]
+}
