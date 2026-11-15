@@ -1,0 +1,68 @@
+Boot script triggered at Sat Nov 14 11:26:38 AEDT 2026
+Wake lock acquired
+Sync script spawned with PID 26426
+]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Corenohup: ignoring input
+]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=/data/data/com.termux/files/home/scripts/auto-sync.sh:cd:2: no such file or directory: /data/data/com.termux/files/home/workspace/RobDoeAI-Core
+[?1l>]2;cat <<<'' > ~/scripts/backup.sh; chmod +x ~/scripts/backup.sh]1;cat]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Core]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=[?1l>]2;git config --global advice.addIgnoredFile false; echo  >> ; git add -f  2> ]1;#]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Core]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=[?1l>]2;sensors 2> /dev/null || cat /sys/class/thermal/thermal_zone*/temp 2> /dev/nul]1;#zsh: no matches found: /sys/class/thermal/thermal_zone*/temp
+%CPU %MEM CMD
+ 5.7  2.4 ipfs /data/data/com.termux/files/usr/bin/ipfs daemon
+ 2.0  0.0 ps /data/data/com.termux/files/usr/bin/ps -eo %cpu,%mem,cmd --sort=-%cpu
+ 1.0  0.0 head /data/data/com.termux/files/usr/bin/head -n 10
+ 0.1  0.0 /data/data/com.termux/files/usr/bin/zsh /data/data/com.termux/files/usr/bin/zsh -l
+ 0.1  0.0 runsv /data/data/com.termux/files/usr/bin/runsv sshd
+ 0.0  0.0 runsv /data/data/com.termux/files/usr/bin/runsv crond
+ 0.0  0.0 svlogd /data/data/com.termux/files/usr/bin/svlogd -tt /data/data/com.termux/files/usr/var/log/sv/ipfs
+ 0.0  0.0 svlogd /data/data/com.termux/files/usr/bin/svlogd -tt /data/data/com.termux/files/usr/var/log/sv/crond
+ 0.0  0.0 svlogd /data/data/com.termux/files/usr/bin/svlogd -tt /data/data/com.termux/files/usr/var/log/sv/ssh-agent
+]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Core]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=[?1l>]2;termux-setup-storage; pkg update && pkg install -y git zsh python nodejs curl]1;#
+It appears that directory '~/storage' already exists.
+This script is going to rebuild its structure from
+scratch, wiping all dangling files. The actual storage
+content IS NOT going to be deleted.
+
+[?2004hDo you want to continue? (y/n) [KDo you want to continue? (y/n) [KDo you want to continue? (y/n) 
+[?2004lAborting configuration and leaving directory '~/storage' intact.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://termux.net stable InRelease
+Hit:2 https://root-packages.termux.net root InRelease
+Get:3 https://tur.kcubeterm.com tur-packages InRelease
+Fetched 21.8 kB in 0s (45.9 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (2.54.0).
+zsh is already the newest version (5.9.1-1).
+python is already the newest version (3.13.13-1).
+nodejs is already the newest version (26.3.1).
+curl is already the newest version (8.21.0).
+wget is already the newest version (1.25.0-1).
+tmux is already the newest version (3.6b).
+sqlite is already the newest version (3.53.2).
+htop is already the newest version (3.5.1).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 0
+[+] Sovereign tmux supervisor session 'robclaw' started.
+[+] Background cron daemon spawned.
+[+] Sovereign Termux block executed successfully!
+]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Core]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=[?1l>]2;cat <<<'' > ~/robdoe_termux_master_deploy.sh; chmod +x  && ]1;cat[H[2J[3J[1;30m======================================================================[0m
+[1;33m     ROBDOE PTY TLD // ROBCLAWD SOVEREIGN TERMUX MASTER DEPLOY        [0m
+[1;30m======================================================================[0m
+
+[0;36m [+] Initializing Termux shared storage mount...[0m
+
+It appears that directory '~/storage' already exists.
+This script is going to rebuild its structure from
+scratch, wiping all dangling files. The actual storage
+content IS NOT going to be deleted.
+
+[?2004hDo you want to continue? (y/n) ^C[?2004l]2;u0_a265@localhost:~/master-lattice/RobDoeAI-Core]1;..RobDoeAI-Core]7;file://localhost/data/data/com.termux/files/home/master-lattice/RobDoeAI-Core\[?1h=
