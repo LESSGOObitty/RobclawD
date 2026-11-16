@@ -1,0 +1,9 @@
+{
+  "operator": "root@robdoenet",
+  "domain": "robdoenet",
+  "tld": "net",
+  "alignment_timestamp": "2026-11-16T13:16:24.223+11:00",
+  "status": "SECURED_AND_STRICT",
+  "lattice_nodes": 64,
+  "frequency": "0.010 MHz / Mach 10"
+}
