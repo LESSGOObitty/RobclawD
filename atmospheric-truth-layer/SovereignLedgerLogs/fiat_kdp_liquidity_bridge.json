@@ -1,0 +1,19 @@
+{
+  "bridge_timestamp": "2026-11-16T19:31:33.880Z",
+  "sovereign_domain": "robdoe.com",
+  "source_ledger": "genius_mint_hydrodrill_ledger.jsonl",
+  "block_target": {
+    "mint_index": 2,
+    "proof_of_work_hash": "00005bbc6ded1831cbcb8a109c827527e3cc948361828c8b90032330a814c2a0",
+    "bedrock_merkle_root": "5c34f31f560fb9bd30b0cd802653c335f321b14e03de2da46832c4bb5d870226"
+  },
+  "fiat_kdp_routing": {
+    "settlement_protocol": "KDP-Enterprise-Treasury-v1",
+    "fiat_conversion_rate": "1:1 Sovereign-Parity",
+    "liquidity_destination": "Automated Lymphatic QiDue Pool",
+    "treasury_status": "LIQUIDITY_INJECTION_READY",
+    "intermediary_fees": 0.0,
+    "compliance": "Absolute Domain Ownership Verified"
+  },
+  "bridge_lattice_sponge_seal": "2f4d2880b90adda838b72b91b88d62630910b2f8033e4834e3586e4b8163425457f6175c11d60e874b7c4c44bae4f594f5eff3351a01d78d894779ededa560e0"
+}
