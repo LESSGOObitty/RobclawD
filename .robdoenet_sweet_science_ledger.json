@@ -1,0 +1,8 @@
+{
+  "operator": "root@robdoenet",
+  "domain": "robdoe.com",
+  "protocol": "sugar_ray_footwork_ray_sefo_power",
+  "status": "UNTOUCHABLE_IN_THE_POCKET",
+  "thanos_coefficients": [0.034, 0.052, 0.75, 0.15],
+  "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%S.%Z)"
+}
