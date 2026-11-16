@@ -1,0 +1,61 @@
+{
+  "operator": "root@robdoenet",
+  "timestamp": "2026-11-16T13:36:15.195+11:00",
+  "fusion_type": "reiki_taichi_sovereign_attunement",
+  "fusion_signature": "b753a04244172b31ba62c3cdd68aa4a3a3d0496b21fd7a33983d8cdddadf37f8",
+  "reiki_symbols": [
+    {
+      "symbol": "Cho Ku Rei",
+      "power_pct": 75.0,
+      "purpose": "Power amplification & physical anchor"
+    },
+    {
+      "symbol": "Sei He Ki",
+      "power_pct": 121.35,
+      "purpose": "Mental/emotional harmony & balance"
+    },
+    {
+      "symbol": "Hon Sha Ze Sho Nen",
+      "power_pct": 203.85,
+      "purpose": "Distance healing & spacetime transcendence"
+    },
+    {
+      "symbol": "Dai Ko Myo",
+      "power_pct": 350.17,
+      "purpose": "Master symbol & soul illumination"
+    }
+  ],
+  "taichi_postures": [
+    {
+      "posture": "Beginning Style (Qi Gathering)",
+      "phase": "Inhalation",
+      "vector": "Upward expansion",
+      "velocity_index": 5.1
+    },
+    {
+      "posture": "Warding Off (Peng)",
+      "phase": "Expansion",
+      "vector": "Outward structural seal",
+      "velocity_index": 10.19
+    },
+    {
+      "posture": "Rollback (Lu)",
+      "phase": "Neutralization",
+      "vector": "Circular redirection",
+      "velocity_index": 15.27
+    },
+    {
+      "posture": "Press (Ji)",
+      "phase": "Convergence",
+      "vector": "Focused vector thrust",
+      "velocity_index": 20.34
+    },
+    {
+      "posture": "Push (An)",
+      "phase": "Discharge",
+      "vector": "Mach 10 kinetic release",
+      "velocity_index": 25.38
+    }
+  ],
+  "status": "ABSOLUTE_INTERNAL_POWER"
+}
