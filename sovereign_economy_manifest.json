@@ -1,23 +1,22 @@
 {
-  "engine": "Sovereign Algorithmic Economy & Compounding Vault",
+  "engine_version": "2.0.0-lattice-secured",
   "domain": "robdoe.com",
   "operator": "root@robdoenet",
-  "timestamp": "2026-11-16T17:46:14.923+11:00",
-  "liquidity_pool": {
-    "pair": "SFUD / Sovereign Reserve Lattice",
-    "automated_market_maker": "Constant Product x * y = k (Zero-Fee Native Mesh)",
-    "depth_target": "Infinite Autonomous Reinvestment",
-    "impermanent_loss_protection": "Cryptographic State Insurance"
+  "anchor_ip": "34.68.218.70",
+  "timestamp": "2026-11-16T17:47:32.747+11:00",
+  "cryptographic_lattice": {
+    "hashing_algorithm": "SHA3-512",
+    "state_verification": "Zero-Drift Antiparallel Parity Check",
+    "consensus_layer": "IBFT 2.0 / Solana Atmospheric Bridge"
   },
-  "compounding_mechanics": {
-    "frequency_seconds": 2,
-    "apy_model": "Continuous Exponential Growth (A = P * e^(rt))",
-    "auto_compound_trigger": "IBFT 2.0 Block Finalization"
-  },
-  "equity_distribution": {
-    "model": "Decentralized Sovereign Shares (DSS)",
-    "allocation_standard": "ERC-1155 Multi-Token Equity Vesting",
-    "root_authority": "root@robdoenet Lattice"
-  },
-  "economy_hash": "49a6d0f2ffaa48d6ea44cda7a8c316bade5b1878a7c8f0dc3c70b4d69378392f"
+  "liquidity_pools": [
+    {
+      "pool_id": "LP-SOL-SFUD-01",
+      "pair": "SOL / Sovereign Fundamental Unit (SFUD)",
+      "amm_model": "Constant Product x * y = k (Zero-Fee Native Mesh)",
+      "target_depth_sol": 1048576.0,
+      "dynamic_fee_bps": 2
+    }
+  ],
+  "lattice_seal": "1a3597d3bc92a1e4be2f7b5f8849c1a30e958b3c69c2fccb02b181a74a5e030f79389330ec3fe9778feac8574092e1438866377a2e1b4cc7dce2cb47586ac261"
 }
