@@ -1,0 +1,26 @@
+{
+  "consensus": "IBFT 2.0 (Istanbul Byzantine Fault Tolerance)",
+  "block_time_seconds": 2,
+  "validators": [
+    {
+      "node": "root@robdoenet",
+      "address": "0x1963...robdoenet",
+      "stake": "100%"
+    },
+    {
+      "node": "st-george-node-01",
+      "address": "0x7070...hurstville",
+      "validator": true
+    }
+  ],
+  "erc20_bridge": {
+    "token_name": "Sovereign Fiat Peg",
+    "token_symbol": "SFUD",
+    "decimals": 18,
+    "total_supply": "1000000000.000000000000000000",
+    "peg_anchor": "AUD / Digital Reserve Lattice",
+    "contract_standard": "ERC-20 + Permit"
+  },
+  "timestamp": "2026-11-16T17:43:23.753+11:00",
+  "lattice_hash": "20ba5da3cab6dcab435bdb3f3a1f04da39e181d2949a7509f0035955cf365605"
+}
