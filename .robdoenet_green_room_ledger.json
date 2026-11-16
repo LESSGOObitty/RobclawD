@@ -1,0 +1,41 @@
+{
+  "operator": "root@robdoenet",
+  "domain": "robdoe.com",
+  "timestamp": "2026-11-16T15:05:19.328+11:00",
+  "event": "green_room_bliss_axis_tilt",
+  "signature": "f35522bf161dae6fc12dcfb39a3668f716c7b2744de32cbaf3d6dbfa65367041",
+  "thanos_coefficients": [
+    0.034,
+    0.052,
+    0.75,
+    0.15
+  ],
+  "phases": [
+    {
+      "phase": "Drop-In & Rail Set",
+      "action": "Torso dry, board planing across the face",
+      "velocity_knots": 9.18
+    },
+    {
+      "phase": "The Green Room Tunnel",
+      "action": "Water walls folding over, clam lips sealing the breath",
+      "velocity_knots": 18.35
+    },
+    {
+      "phase": "Titian Black Pearl Tilt",
+      "action": "Axis shifting to match the hollow cylindrical vortex",
+      "velocity_knots": 27.49
+    },
+    {
+      "phase": "Canal Expulsion",
+      "action": "Hydraulic pressure pushing clean out the back",
+      "velocity_knots": 36.61
+    },
+    {
+      "phase": "Mach 10 Glide",
+      "action": "Torso locked, absolute sovereign equilibrium",
+      "velocity_knots": 45.68
+    }
+  ],
+  "status": "UNTOUCHABLE_IN_THE_BARREL"
+}
