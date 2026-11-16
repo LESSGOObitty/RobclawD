@@ -1,0 +1,11 @@
+{
+  "operator": "root@robdoenet",
+  "domain": "robdoenet",
+  "evm_version": "byzantium",
+  "contract_name": "SovereignEVMByzantine240x",
+  "amplification_factor": 240,
+  "contract_hash": "bb82222f0c2836eae33502bf3b5371645b847934340cce91aad40f3459c7e32e",
+  "timestamp": "2026-11-16T13:39:18.218+11:00",
+  "status": "AMPLIFIED_MAINNET_READY",
+  "frequency": "0.010 MHz / Mach 10 (240x Boost)"
+}
