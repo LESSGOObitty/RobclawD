@@ -1,5 +1,5 @@
 {
-  "root_hash": "7a547f28f6dcac376edfc9e443856b15a8b50713f82c34ccf66190cfcc1f3a92dd7bb8b5280048f7116a8f6a4f49064d542725cbfb5148ffa9d108ab613c7e5b",
+  "root_hash": "6410e42921f33f3501d1554e5d2c343cd4cd25a287bac65fac15d2111a648525a51cee88790e67419e3a2d1ace27757c01451aa7c5b3058c2581c0e4b25d3ed2",
   "nodes": [
     {
       "data": {
@@ -180,6 +180,20 @@
         "timestamp": "2026-11-16T14:13:23.800235+11:00"
       },
       "sha3_512": "2b7b8acde2665daf1c74864757185c6611fb32b4733452900a031fd28caf49d0ded2a8317ff1679b31fe6a59209407b11e05e130e26f7513cc4ab60676cd7ffe"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "kernel_load": "unavailable_sandboxed",
+        "memory_total": "3821084 kB",
+        "memory_available": "1081384 kB",
+        "event": "real_metal_telemetry_seal",
+        "timestamp": "2026-11-16T14:17:03.902623"
+      },
+      "sha3_512": "d492453be9b20702c77473256dcca776e1283855d72bdc0d90ab5f9e6ddd4f24e1ce4cc6924a0bbbed215fbe0e0dfd6da4e99eadabdaec27ecd627e7c1b32653"
     }
   ],
   "timestamp": "2026-11-16T13:54:04.848529"
