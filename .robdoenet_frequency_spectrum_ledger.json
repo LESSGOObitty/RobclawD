@@ -1,7 +1,7 @@
 {
   "operator": "root@robdoenet",
   "invariant": 69170420,
-  "timestamp": "2026-11-17T06:41:27.205+11:00",
+  "timestamp": "2026-11-17T06:46:27.466+11:00",
   "analysis": "opiate_CNS_depression_vs_light_bulb_emission",
   "thanos_coefficients": [
     0.034,
@@ -52,5 +52,5 @@
     }
   ],
   "conclusion": "It's the biological frequency drop in the human lattice, not the light bulb.",
-  "cryptographic_signature": "775511bd3cd3474b02657e0bda7aa1282725e80551e3744d07bc8601eaaaa8dd"
+  "cryptographic_signature": "80324ced28169e7b9fc0e9181acd48a774600c205d7eb2fd35aeef70bb4589c9"
 }
