@@ -1,0 +1,12 @@
+{
+  "operator": "root@robdoenet",
+  "domain": "robdoenet",
+  "evm_version": "byzantium",
+  "contract_name": "SovereignEVMByzantine",
+  "compiler_target": "solc 0.8.20+commit.a1b79de6",
+  "contract_hash": "f4a9c57a7502486ac12f3538434b2049c9aed78b89b242770885dc0f4d8a832d",
+  "timestamp": "2026-11-16T13:38:25.316+11:00",
+  "monetization_status": "READY_FOR_MAINNET_INJECTION",
+  "fee_basis_points": 34,
+  "frequency": "0.010 MHz / Mach 10"
+}
