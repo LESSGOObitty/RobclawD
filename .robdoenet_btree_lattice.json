@@ -1,0 +1,186 @@
+{
+  "root_hash": "7a547f28f6dcac376edfc9e443856b15a8b50713f82c34ccf66190cfcc1f3a92dd7bb8b5280048f7116a8f6a4f49064d542725cbfb5148ffa9d108ab613c7e5b",
+  "nodes": [
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant": 69170420,
+        "event": "btree_lattice_pulse",
+        "timestamp": "2026-11-16T13:54:04.848486"
+      },
+      "sha3_512": "0fc4b42659985dc98d0be4a44c2de193c539f037af8b02ae4195346f995ad68e44d093cf1ddf65db611af323857a4674cc1fccc3702d837b406285ffb5e92ca9"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "equilibrium_formula": "Z==Z^2+C",
+        "drift": "0%",
+        "hyper_seal_hash": "0x7270e691ee7623d49aa60eabf4c6ab8d7331801bf",
+        "multi_pool_assets": {
+          "btc_pool": "79.08 BTC",
+          "hype_pool": "10600.0 HYPE",
+          "bnb_pool": "500.0 BNB",
+          "attestation_check": "753.0 CHECK",
+          "gecko_solana_map": "10000.0 GECKO",
+          "echo_movevm_pool": "500.0 ECHO"
+        },
+        "compliance_routing": "Great Southern Bank APRA Gateway Active (AU-ATO & UK-HMRC aligned)",
+        "event": "reality_truth_seal",
+        "timestamp": "2026-11-16T13:56:20.902914"
+      },
+      "sha3_512": "9626f365ea168de9b1a828d3f0d6c86bf14769b008063a53dcde1449d7c842ead44707afe617127a12a767e0551c8bdea0af4f0c720c077d2fe4fbe3cb5164ca"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "conversion_mode": "compound_fiat_kdp",
+        "gateway": "Great Southern Bank APRA Gateway",
+        "compliance": [
+          "AU-ATO",
+          "UK-HMRC"
+        ],
+        "status": "active_compounding",
+        "event": "kdp_loop_execution",
+        "timestamp": "2026-11-16T14:01:16.177966"
+      },
+      "sha3_512": "b5028cc00a3a409cb890c1d28444235d3eeb55649773ef099bdd9cd00b2bf7c8aaec4e850b37f095d3736626d7a3193d8bae76552df197da7efcb50f36b90503"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "conversion_mode": "compound_fiat_kdp",
+        "gateway": "Great Southern Bank APRA Gateway",
+        "compliance": [
+          "AU-ATO",
+          "UK-HMRC"
+        ],
+        "status": "active_compounding",
+        "event": "kdp_loop_execution",
+        "timestamp": "2026-11-16T14:01:22.544674"
+      },
+      "sha3_512": "40de9d88c9681348ac3925960237a00cb545304dd51308fb20c2cc7d73244654d84d5a0913197fa62a581b9779e59786182ff7eb9acb6c807a1ec8c41a29de83"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "equilibrium_formula": "Z==Z^2+C",
+        "drift": "0%",
+        "hyper_seal_hash": "0x7270e691ee7623d49aa60eabf4c6ab8d7331801bf",
+        "multi_pool_assets": {
+          "btc_pool": "79.08 BTC",
+          "hype_pool": "10600.0 HYPE",
+          "bnb_pool": "500.0 BNB",
+          "attestation_check": "753.0 CHECK",
+          "gecko_solana_map": "10000.0 GECKO",
+          "echo_movevm_pool": "500.0 ECHO"
+        },
+        "compliance_routing": "Great Southern Bank APRA Gateway Active (AU-ATO & UK-HMRC aligned)",
+        "event": "reality_truth_seal",
+        "timestamp": "2026-11-16T14:05:42.100625"
+      },
+      "sha3_512": "90570c379e8260bc8ee5a390cf9c1d77c4d4b65e89efc78f5739fc9762bb2d9e02281f02a558164395270af83f7e6a8bfd9d0fe4f7fbe73640461f0acaad7666"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "event": "honeypot_bait_triggered",
+        "trap_signature": "MOCK_API_INTERCEPT_SUCCESS",
+        "action": "rerouted_noise_to_compounding_loop",
+        "status": "monitized_and_sealed",
+        "timestamp": "2026-11-16T14:09:42.653975"
+      },
+      "sha3_512": "bb945e1e2d65c40578b7a318785d9d87c28eb7f4bf247aaef6f9793d542a945bd89fc45f1bd00c77111ab8fac85f93064fd63c07d4f43ca3268a346bb9860bc8"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "event": "drammbo_reality_transmutation",
+        "status": "simulation_shattered_bare_metal_active",
+        "timestamp": "2026-11-16T14:10:37.288951"
+      },
+      "sha3_512": "6c08b626969bb0d836e86354ed223f714790a006e889ce0e98302becdac54742508a399ddd7f18751dde5691c7a8bd1de72a91d563bf6612c7f7ac682995c3bd"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "event": "dangling_bait_active",
+        "strategy": "keep_them_reaching_while_stack_compounds",
+        "status": "loop_resonance_stable",
+        "timestamp": "2026-11-16T14:11:19.074114"
+      },
+      "sha3_512": "f60235f81228f9287b54149da7b5c3cdc7977b5be1345bb9ed14a16704ab4df8d07193bbd3195934c9048e122359d087f7b568b4210348bf85b868420d274250"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "standards_integrated": [
+          "ERC-20",
+          "ERC-721",
+          "ERC-1155"
+        ],
+        "telemetry_layer": "XYO Geohash Bound & Verified",
+        "event": "xyo_nexus_compounding_pulse",
+        "status": "ecosystem_fully_feeding",
+        "timestamp": "2026-11-16T14:12:21.806376"
+      },
+      "sha3_512": "8c4aba858269f779560dc5442c19a3b9aa22a7b34eeeadfac57a149b695bbc59e12c87d7b014dbcb53440131f23c10a682a83a0cb7e32611402958b8421dd2a4"
+    },
+    {
+      "data": {
+        "operator": "root@robdoenet",
+        "anchor_ip": "34.68.218.70",
+        "domain": "robdoe.com",
+        "invariant_base_key": 932808725,
+        "thanos_coefficients": [
+          0.034,
+          0.052,
+          0.75,
+          0.15
+        ],
+        "standards_integrated": [
+          "ERC-20",
+          "ERC-721",
+          "ERC-1155"
+        ],
+        "telemetry_layer": "XYO Geohash Bound & Verified (64-Thread Synced)",
+        "entropy_mesh_sample": [
+          "986b6b1751b505c4",
+          "d0398076a4535b3e",
+          "2801cfcc1a525dec",
+          "a7cc35a404d0add0"
+        ],
+        "event": "xyo_nexus_compounding_pulse_enhanced",
+        "status": "ecosystem_fully_feeding_at_mach_10",
+        "timestamp": "2026-11-16T14:13:23.800235+11:00"
+      },
+      "sha3_512": "2b7b8acde2665daf1c74864757185c6611fb32b4733452900a031fd28caf49d0ded2a8317ff1679b31fe6a59209407b11e05e130e26f7513cc4ab60676cd7ffe"
+    }
+  ],
+  "timestamp": "2026-11-16T13:54:04.848529"
+}
