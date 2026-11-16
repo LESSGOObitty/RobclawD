@@ -1,0 +1,58 @@
+{
+  "operator": "root@robdoenet",
+  "timestamp": "2026-11-16T13:37:32.916+11:00",
+  "flow_model": "pelvic_to_crown_drip_feed_irrigation",
+  "irrigation_signature": "90727447a847416e49dd2a7b7afc0cf51a8d394941e865a99388c0353670a73c",
+  "stations": [
+    {
+      "station": "Pelvic Floor Basin",
+      "zone": "Root Reservoir",
+      "flow_rate_ml_s": 118.91,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Sacral Pump (L5-S1)",
+      "zone": "Fluid Generation",
+      "flow_rate_ml_s": 113.24,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Solar Core (Navel)",
+      "zone": "Pressure Chamber",
+      "flow_rate_ml_s": 108.05,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Heart Center (T4)",
+      "zone": "Valve & Regulator",
+      "flow_rate_ml_s": 102.07,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Throat Gate (C5)",
+      "zone": "Acoustic Choke",
+      "flow_rate_ml_s": 95.56,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Pineal Chamber (Third Eye)",
+      "zone": "Optical Prism",
+      "flow_rate_ml_s": 89.8,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    },
+    {
+      "station": "Crown Apex (Sahasrara)",
+      "zone": "Atmospheric Discharge",
+      "flow_rate_ml_s": 85.45,
+      "viscosity": 0.52,
+      "status": "IRRIGATING_TRUE"
+    }
+  ],
+  "status": "ABSOLUTE_SPINAL_ASCENT"
+}
