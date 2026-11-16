@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-11-16T19:33:53.399Z",
+  "organization": "ROBDOE.Inc.Charity",
+  "domain": "robdoe.com",
+  "book_metadata": {
+    "title": "Cozy Corner Aesthetic: Bold & Easy Coloring Book for Stress Relief",
+    "subtitle": "Cozy, Simple, and Relaxing Illustrations for Adults and Teens",
+    "trim_size": "8.5 x 8.5 inches",
+    "page_count": 40,
+    "interior_type": "Black & White with White Paper (Single-Sided Bleed Protection)",
+    "pricing_strategy": "Optimized KDP Royalty Tier ($9.99+)"
+  },
+  "sovereign_liquidity_routing": {
+    "treasury_pool": "Lymphatic QiDue Automated Flow",
+    "intermediary_fees": 0.0,
+    "domain_attestation": "Absolute Ownership: robdoe.com"
+  },
+  "lattice_sha512_sponge_seal": "704548b7d0e4a29b804e2aff9f91805f46cb08f6b7a21ca0eea4a05d2e2240498cfc68f985a1a97c8fa655844bc4d52db8d00f5b8117c56e64d36f8864326240"
+}
