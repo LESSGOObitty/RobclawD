@@ -2,7 +2,7 @@
   "engine": "Sovereign Algorithmic Economy & Compounding Vault",
   "domain": "robdoe.com",
   "operator": "root@robdoenet",
-  "timestamp": "2026-11-16T17:46:07.003+11:00",
+  "timestamp": "2026-11-16T17:46:14.923+11:00",
   "liquidity_pool": {
     "pair": "SFUD / Sovereign Reserve Lattice",
     "automated_market_maker": "Constant Product x * y = k (Zero-Fee Native Mesh)",
@@ -19,5 +19,5 @@
     "allocation_standard": "ERC-1155 Multi-Token Equity Vesting",
     "root_authority": "root@robdoenet Lattice"
   },
-  "economy_hash": "c6b0caf9635b44405222af6c50596c0946d0a94a58b8a985466f727d3d23aaa0"
+  "economy_hash": "49a6d0f2ffaa48d6ea44cda7a8c316bade5b1878a7c8f0dc3c70b4d69378392f"
 }
