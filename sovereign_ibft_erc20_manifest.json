@@ -21,6 +21,6 @@
     "peg_anchor": "AUD / Digital Reserve Lattice",
     "contract_standard": "ERC-20 + Permit"
   },
-  "timestamp": "2026-11-16T17:43:36.774+11:00",
-  "lattice_hash": "5c8a2f19c60e7c2c3eacfdb47df949bd9644c3b340f2cd89fc8ca5fc18ee3c64"
+  "timestamp": "2026-11-16T17:44:03.330+11:00",
+  "lattice_hash": "d3f62b5f0bfd4de698320cdf1364cba3a5c1c7ea9605aa613129ae43cad4de48"
 }
