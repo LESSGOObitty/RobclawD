@@ -1,0 +1,443 @@
+{
+  "Timestamp": "2026-11-17T11:51:05.515+11:00",
+  "Organization": "ROBDOE.Inc.Charity",
+  "Domain": "robdoe.com",
+  "Framework": "72 Systematic Economy Lymph Node QiDue Doctrine",
+  "Compliance": "AU & PND Honored // Uncompromised Tikanga",
+  "TotalLayers": 72,
+  "Layers": [
+    {
+      "No": "01",
+      "Name": "WORLD",
+      "JP": "世界は変えられず、",
+      "Maori": "Ko te ao tūturu, kāore e whakarerekēhia."
+    },
+    {
+      "No": "02",
+      "Name": "RADAR RAW",
+      "JP": "観察は触れず。",
+      "Maori": "Kāore te tirohanga e pā atu."
+    },
+    {
+      "No": "03",
+      "Name": "INGEST",
+      "JP": "事実をそのまま迎える。",
+      "Maori": "Ko te kōrero mai a te ao, he mea tapu."
+    },
+    {
+      "No": "04",
+      "Name": "VALIDATION",
+      "JP": "歪みを許さず。",
+      "Maori": "Ko te tika, ko te pono."
+    },
+    {
+      "No": "05",
+      "Name": "GRID",
+      "JP": "形を変えずに写す。",
+      "Maori": "He whakaahua, ehara i te whakatau."
+    },
+    {
+      "No": "06",
+      "Name": "REGION",
+      "JP": "境界は侵さず。",
+      "Maori": "Ko te ārai he tapu."
+    },
+    {
+      "No": "07",
+      "Name": "SUMMARY",
+      "JP": "揺らぎは隠さず。",
+      "Maori": "Ko te rerekētanga he tohu."
+    },
+    {
+      "No": "08",
+      "Name": "THRESHOLD",
+      "JP": "基準は明示し、隠さない。",
+      "Maori": "He ture mārama, he ture tika."
+    },
+    {
+      "No": "09",
+      "Name": "RISK",
+      "JP": "判断は説明可能であること。",
+      "Maori": "He whakatau e taea te whakamārama."
+    },
+    {
+      "No": "10",
+      "Name": "REASON",
+      "JP": "物語ではなく、事実を残す。",
+      "Maori": "Ko te pūrongo he pono."
+    },
+    {
+      "No": "11",
+      "Name": "DECISION",
+      "JP": "道具は導かず。",
+      "Maori": "Ehara te taputapu i te rangatira."
+    },
+    {
+      "No": "12",
+      "Name": "DISPATCH",
+      "JP": "伝えるだけ、支配しない。",
+      "Maori": "He karere, ehara i te mana whakahaere."
+    },
+    {
+      "No": "13",
+      "Name": "PATTERN",
+      "JP": "表現は柔らかく、過度に驚かせず。",
+      "Maori": "He āwhina, he manaaki."
+    },
+    {
+      "No": "14",
+      "Name": "ASSISTIVE",
+      "JP": "補助はしても、代理はしない。",
+      "Maori": "Kāore e tango i te mana o te tangata."
+    },
+    {
+      "No": "15",
+      "Name": "LOCAL STATE",
+      "JP": "必要最小限のみ保持。",
+      "Maori": "He iti, he tika."
+    },
+    {
+      "No": "16",
+      "Name": "OVERRIDE",
+      "JP": "人の主体は奪わず。",
+      "Maori": "Ko te mana o te tangata, kaua rawa e tangohia."
+    },
+    {
+      "No": "17",
+      "Name": "HEALTH",
+      "JP": "健康を知らせるのみ。",
+      "Maori": "He tohu ora."
+    },
+    {
+      "No": "18",
+      "Name": "PSEUDONYMITY",
+      "JP": "個を守る。",
+      "Maori": "Tiakina te tangata."
+    },
+    {
+      "No": "19",
+      "Name": "ERASURE",
+      "JP": "忘れる権利を尊重する。",
+      "Maori": "He mana ki te muku."
+    },
+    {
+      "No": "20",
+      "Name": "TIME",
+      "JP": "時は一本の川。",
+      "Maori": "He awa kōrero."
+    },
+    {
+      "No": "21",
+      "Name": "SYNC",
+      "JP": "整合は信頼の基。",
+      "Maori": "Ko te kotahitanga."
+    },
+    {
+      "No": "22",
+      "Name": "UNCERTAINTY",
+      "JP": "不確実性は自然の息。",
+      "Maori": "Ko te ao hurihuri."
+    },
+    {
+      "No": "23",
+      "Name": "EXPLAINABILITY",
+      "JP": "隠さず、語れる構造。",
+      "Maori": "He kōrero mārama."
+    },
+    {
+      "No": "24",
+      "Name": "RULE EVOLUTION",
+      "JP": "変化は whakapapa の一部。",
+      "Maori": "He whanaketanga."
+    },
+    {
+      "No": "25",
+      "Name": "TESTING",
+      "JP": "過去に戻り、未来を守る。",
+      "Maori": "He hoki ki te pūtake."
+    },
+    {
+      "No": "26",
+      "Name": "FAIL MODES",
+      "JP": "危険に向かわず、静けさへ戻る。",
+      "Maori": "He hoki ki te noa."
+    },
+    {
+      "No": "27",
+      "Name": "QUIET DEFAULT",
+      "JP": "静けさは安全。",
+      "Maori": "Ko te marino te haumaru."
+    },
+    {
+      "No": "28",
+      "Name": "RATE LIMIT",
+      "JP": "過ぎたるは及ばざるが如し。",
+      "Maori": "He āta haere."
+    },
+    {
+      "No": "29",
+      "Name": "CHILD",
+      "JP": "子どもの世界を守る。",
+      "Maori": "Tiakina te tamaiti."
+    },
+    {
+      "No": "30",
+      "Name": "CAREGIVER",
+      "JP": "whanaungatanga を尊重する。",
+      "Maori": "He mahi ngātahi."
+    },
+    {
+      "No": "31",
+      "Name": "TRANSPARENCY",
+      "JP": "隠しごとを作らない。",
+      "Maori": "He mārama, he pono."
+    },
+    {
+      "No": "32",
+      "Name": "DOCUMENTATION",
+      "JP": "知識は共有されるべき。",
+      "Maori": "He taonga tuku iho."
+    },
+    {
+      "No": "33",
+      "Name": "AUDIT",
+      "JP": "道のりを残す。",
+      "Maori": "He ara kōrero."
+    },
+    {
+      "No": "34",
+      "Name": "MINIMALISM",
+      "JP": "余計な力を持たせない。",
+      "Maori": "Kia iti, kia tika."
+    },
+    {
+      "No": "35",
+      "Name": "NO LEARNING",
+      "JP": "勝手に変わらない。",
+      "Maori": "Kāore he huringa pokanoa."
+    },
+    {
+      "No": "36",
+      "Name": "UPDATE PATH",
+      "JP": "更新は tapu の儀礼。",
+      "Maori": "He kawa, he tikanga."
+    },
+    {
+      "No": "37",
+      "Name": "BOUNDARY REVIEW",
+      "JP": "tapu/noa の線を常に見直す。",
+      "Maori": "He tirohanga anō."
+    },
+    {
+      "No": "38",
+      "Name": "EXTERNAL REVIEW",
+      "JP": "他者の目は manaaki。",
+      "Maori": "He tirohanga tuatoru."
+    },
+    {
+      "No": "39",
+      "Name": "CULTURE",
+      "JP": "土地の tikanga を尊重する。",
+      "Maori": "He hononga ki te whenua."
+    },
+    {
+      "No": "40",
+      "Name": "LANGUAGE",
+      "JP": "言葉は橋。",
+      "Maori": "He ara kōrero."
+    },
+    {
+      "No": "41",
+      "Name": "MISUSE",
+      "JP": "道具を he へ使わせない。",
+      "Maori": "Kaua e tukino."
+    },
+    {
+      "No": "42",
+      "Name": "ACCOUNTABILITY",
+      "JP": "責任は人にある。",
+      "Maori": "Ko te kawenga kei te tangata."
+    },
+    {
+      "No": "43",
+      "Name": "SCOPE",
+      "JP": "やらないことを明確に。",
+      "Maori": "He rārangi tapu."
+    },
+    {
+      "No": "44",
+      "Name": "DATA LIFETIME",
+      "JP": "データにも生と死がある。",
+      "Maori": "He oranga raraunga."
+    },
+    {
+      "No": "45",
+      "Name": "CHILD FEEDBACK",
+      "JP": "tamaiti の声を聴く。",
+      "Maori": "Whakarongo."
+    },
+    {
+      "No": "46",
+      "Name": "INCIDENT",
+      "JP": "失敗は tohu、学びの源。",
+      "Maori": "He akoranga."
+    },
+    {
+      "No": "47",
+      "Name": "STATIC CHECK",
+      "JP": "構造の歪みを早期に知る。",
+      "Maori": "He tirohanga hōhonu."
+    },
+    {
+      "No": "48",
+      "Name": "LOAD",
+      "JP": "嵐に耐える構造。",
+      "Maori": "He tū pakari."
+    },
+    {
+      "No": "49",
+      "Name": "SAFE",
+      "JP": "危険に向かわず、静けさへ戻る。",
+      "Maori": "He hoki ki te noa."
+    },
+    {
+      "No": "50",
+      "Name": "EDUCATION",
+      "JP": "理解は manaaki。",
+      "Maori": "He mātauranga."
+    },
+    {
+      "No": "51",
+      "Name": "EXPECTATION",
+      "JP": "万能ではないと伝える。",
+      "Maori": "He pono."
+    },
+    {
+      "No": "52",
+      "Name": "NO SURVEILLANCE",
+      "JP": "人を比べない。",
+      "Maori": "Kaua e whakataurite."
+    },
+    {
+      "No": "53",
+      "Name": "NO EXPLOITATION",
+      "JP": "mana を売らない。",
+      "Maori": "Kaua e hoko i te tangata."
+    },
+    {
+      "No": "54",
+      "Name": "OFFLINE",
+      "JP": "孤立しても安全。",
+      "Maori": "He motuhake haumaru."
+    },
+    {
+      "No": "55",
+      "Name": "PHYSICAL",
+      "JP": "身体を守る設計。",
+      "Maori": "Tiakina te tinana."
+    },
+    {
+      "No": "56",
+      "Name": "POWER",
+      "JP": "誤魔化さず知らせる。",
+      "Maori": "He pono."
+    },
+    {
+      "No": "57",
+      "Name": "NON INTRUSIVE",
+      "JP": "存在は静かに。",
+      "Maori": "He noho māhaki."
+    },
+    {
+      "No": "58",
+      "Name": "NIGHT",
+      "JP": "夜は tapu、静けさを守る。",
+      "Maori": "He pō marino."
+    },
+    {
+      "No": "59",
+      "Name": "MAINTAIN",
+      "JP": "直せることは manaaki。",
+      "Maori": "He tiaki."
+    },
+    {
+      "No": "60",
+      "Name": "LONGEVITY",
+      "JP": "長く支える構造。",
+      "Maori": "He toitū."
+    },
+    {
+      "No": "61",
+      "Name": "VERSION",
+      "JP": "whakapapa を残す。",
+      "Maori": "He aho kōrero."
+    },
+    {
+      "No": "62",
+      "Name": "LANGUAGE OF CARE",
+      "JP": "支配の言葉を使わない。",
+      "Maori": "He kupu manaaki."
+    },
+    {
+      "No": "63",
+      "Name": "DESIGNER",
+      "JP": "設計者もまた責任ある tangata。",
+      "Maori": "He tangata, he kawenga."
+    },
+    {
+      "No": "64",
+      "Name": "CHILD WORLD",
+      "JP": "tamaiti の ao を侵さず。",
+      "Maori": "Kaua e takahi."
+    },
+    {
+      "No": "65",
+      "Name": "PARENTAL TRUST",
+      "JP": "whānau の安心を守る。",
+      "Maori": "He whakawhirinaki."
+    },
+    {
+      "No": "66",
+      "Name": "CO-DESIGN",
+      "JP": "whanaungatanga で作る。",
+      "Maori": "He mahi tahi."
+    },
+    {
+      "No": "67",
+      "Name": "REASSERT",
+      "JP": "tapu/noa を再確認する。",
+      "Maori": "He whakahoki ki te pūtake."
+    },
+    {
+      "No": "68",
+      "Name": "ETHICS",
+      "JP": "tikanga を越えない。",
+      "Maori": "He tika."
+    },
+    {
+      "No": "69",
+      "Name": "SHARED LEARNING",
+      "JP": "学びは共有される taonga。",
+      "Maori": "He koha."
+    },
+    {
+      "No": "70",
+      "Name": "FUTURE",
+      "JP": "tamaiti の未来を損なわない。",
+      "Maori": "He oranga."
+    },
+    {
+      "No": "71",
+      "Name": "QUIET LANTERN",
+      "JP": "世界を変えず、世界を知らせる灯。",
+      "Maori": "He rama tohu."
+    },
+    {
+      "No": "72",
+      "Name": "FINAL INVARIANT",
+      "JP": "観測と介入を混ぜず。mana を奪わず。tapu を守り、noa へ戻し、人を中心に置く。",
+      "Maori": "Ko te mana o te tangata, koia te pūtake."
+    }
+  ],
+  "Sha512DoctrineSeal": "885B8F873090AA69931D46E89578428594F77AF6431CB3CAC9C6ACFA42D5147FAFEA40B6E4FB937C247AC3EB671548FBFEF1FD2B401C8902A0A5EDC277DE5E69"
+}
